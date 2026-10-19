@@ -1363,3 +1363,44 @@
 2026-10-19 11:20:24,249 | INFO | src.analyzer | Reorder_Cost added
 2026-10-19 11:20:24,249 | INFO | src.dashbook | Dashboard started
 2026-10-19 11:20:30,038 | INFO | src.dashbook | Dashboard saved to dashbook/inventory_dashboard.png
+2026-10-19 13:10:04,959 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-19 13:10:04,970 | INFO | src.validator | Product_ID check passed
+2026-10-19 13:10:04,976 | INFO | src.validator | Product_Name check passed
+2026-10-19 13:10:04,980 | WARNING | src.validator | Category check failed: 1  invalid rows
+2026-10-19 13:10:04,984 | INFO | src.validator | Supplier check passed
+2026-10-19 13:10:04,987 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-19 13:10:04,992 | INFO | src.validator | Reorder_Level check passed
+2026-10-19 13:10:04,995 | WARNING | src.validator | Unit_Cost check failed: 1  invalid rows
+2026-10-19 13:10:04,997 | INFO | src.validator | Unit_Price check passed
+2026-10-19 13:10:04,999 | INFO | src.validator | Price vs Cost check passed
+2026-10-19 13:10:05,001 | INFO | src.validator | Units_Sold check passed
+2026-10-19 13:10:05,006 | INFO | src.validator | Order_Date check passed
+2026-10-19 13:10:05,007 | INFO | src.validator | Validation finished: 4  invalid rows in total
+2026-10-19 13:10:05,007 | INFO | src.cleaner | Cleaning started
+2026-10-19 13:10:05,011 | INFO | src.cleaner | Category: fixed 1 values
+2026-10-19 13:10:05,017 | INFO | src.cleaner | Unit_Cost: fixed 1 negative values
+2026-10-19 13:10:05,022 | INFO | src.cleaner | Cleaning finished
+2026-10-19 13:10:05,023 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-19 13:10:05,027 | INFO | src.validator | Product_ID check passed
+2026-10-19 13:10:05,030 | INFO | src.validator | Product_Name check passed
+2026-10-19 13:10:05,034 | INFO | src.validator | Category check passed
+2026-10-19 13:10:05,038 | INFO | src.validator | Supplier check passed
+2026-10-19 13:10:05,042 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-19 13:10:05,045 | INFO | src.validator | Reorder_Level check passed
+2026-10-19 13:10:05,048 | INFO | src.validator | Unit_Cost check passed
+2026-10-19 13:10:05,050 | INFO | src.validator | Unit_Price check passed
+2026-10-19 13:10:05,052 | INFO | src.validator | Price vs Cost check passed
+2026-10-19 13:10:05,055 | INFO | src.validator | Units_Sold check passed
+2026-10-19 13:10:05,059 | INFO | src.validator | Order_Date check passed
+2026-10-19 13:10:05,059 | INFO | src.validator | Validation finished: 2  invalid rows in total
+2026-10-19 13:10:05,071 | INFO | src.kpi | KPI | total_inventory_value = 19054.0
+2026-10-19 13:10:05,072 | INFO | src.kpi | KPI | total_potential_sales_value = 39550.0
+2026-10-19 13:10:05,072 | INFO | src.kpi | KPI | total_potential_gross_profit = 20496.0
+2026-10-19 13:10:05,107 | INFO | src.analyzer | Product summary created: 16 products
+2026-10-19 13:10:05,127 | INFO | src.analyzer | Stock status summary created
+2026-10-19 13:10:05,200 | INFO | src.analyzer | Product table created: 16 products
+2026-10-19 13:10:05,204 | INFO | src.analyzer | Median Inventory_Turnover: 0.71
+2026-10-19 13:10:05,237 | INFO | src.analyzer | Reorder_Quantity added
+2026-10-19 13:10:05,242 | INFO | src.analyzer | Reorder_Cost added
+2026-10-19 13:10:05,243 | INFO | src.dashbook | Dashboard started
+2026-10-19 13:10:09,405 | INFO | src.dashbook | Dashboard saved to dashbook/inventory_dashboard.png
