@@ -1,0 +1,1365 @@
+2026-10-15 14:41:49,394 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-15 14:41:49,402 | INFO | src.validator | Product_ID check passed
+2026-10-15 14:41:49,406 | INFO | src.validator | Product_Name check passed
+2026-10-15 14:41:49,410 | INFO | src.validator | Category check passed
+2026-10-15 14:41:49,413 | INFO | src.validator | Supplier check passed
+2026-10-15 14:41:49,416 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-15 14:41:49,420 | INFO | src.validator | Reorder_Level check passed
+2026-10-15 14:41:49,423 | WARNING | src.validator | Unit_Cost check failed: 1  invalid rows
+2026-10-15 14:41:49,425 | INFO | src.validator | Unit_Price check passed
+2026-10-15 14:41:49,426 | INFO | src.validator | Price vs Cost check passed
+2026-10-15 14:41:49,429 | INFO | src.validator | Units_Sold check passed
+2026-10-15 14:41:49,441 | INFO | src.validator | Order_Date check passed
+2026-10-15 14:41:49,442 | INFO | src.validator | Validation finished: 3  invalid rows in total
+2026-10-15 18:40:07,654 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-15 18:40:07,668 | INFO | src.validator | Product_ID check passed
+2026-10-15 18:40:07,674 | INFO | src.validator | Product_Name check passed
+2026-10-15 18:40:07,681 | INFO | src.validator | Category check passed
+2026-10-15 18:40:07,688 | INFO | src.validator | Supplier check passed
+2026-10-15 18:40:07,694 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-15 18:40:07,697 | INFO | src.validator | Reorder_Level check passed
+2026-10-15 18:40:07,700 | WARNING | src.validator | Unit_Cost check failed: 1  invalid rows
+2026-10-15 18:40:07,704 | INFO | src.validator | Unit_Price check passed
+2026-10-15 18:40:07,709 | INFO | src.validator | Price vs Cost check passed
+2026-10-15 18:40:07,714 | INFO | src.validator | Units_Sold check passed
+2026-10-15 18:40:07,737 | INFO | src.validator | Order_Date check passed
+2026-10-15 18:40:07,738 | INFO | src.validator | Validation finished: 3  invalid rows in total
+2026-10-15 18:53:14,370 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-15 18:53:14,386 | INFO | src.validator | Product_ID check passed
+2026-10-15 18:53:14,390 | INFO | src.validator | Product_Name check passed
+2026-10-15 18:53:14,395 | INFO | src.validator | Category check passed
+2026-10-15 18:53:14,401 | INFO | src.validator | Supplier check passed
+2026-10-15 18:53:14,403 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-15 18:53:14,409 | INFO | src.validator | Reorder_Level check passed
+2026-10-15 18:53:14,411 | WARNING | src.validator | Unit_Cost check failed: 1  invalid rows
+2026-10-15 18:53:14,414 | INFO | src.validator | Unit_Price check passed
+2026-10-15 18:53:14,416 | INFO | src.validator | Price vs Cost check passed
+2026-10-15 18:53:14,420 | INFO | src.validator | Units_Sold check passed
+2026-10-15 18:53:14,426 | INFO | src.validator | Order_Date check passed
+2026-10-15 18:53:14,427 | INFO | src.validator | Validation finished: 3  invalid rows in total
+2026-10-15 22:53:25,297 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-15 22:53:25,313 | INFO | src.validator | Product_ID check passed
+2026-10-15 22:53:25,320 | INFO | src.validator | Product_Name check passed
+2026-10-15 22:53:25,326 | INFO | src.validator | Category check passed
+2026-10-15 22:53:25,331 | INFO | src.validator | Supplier check passed
+2026-10-15 22:53:25,335 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-15 22:53:25,348 | INFO | src.validator | Reorder_Level check passed
+2026-10-15 22:53:25,351 | WARNING | src.validator | Unit_Cost check failed: 1  invalid rows
+2026-10-15 22:53:25,354 | INFO | src.validator | Unit_Price check passed
+2026-10-15 22:53:25,358 | INFO | src.validator | Price vs Cost check passed
+2026-10-15 22:53:25,361 | INFO | src.validator | Units_Sold check passed
+2026-10-15 22:53:25,369 | INFO | src.validator | Order_Date check passed
+2026-10-15 22:53:25,370 | INFO | src.validator | Validation finished: 3  invalid rows in total
+2026-10-15 22:54:01,572 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-15 22:54:01,580 | INFO | src.validator | Product_ID check passed
+2026-10-15 22:54:01,588 | INFO | src.validator | Product_Name check passed
+2026-10-15 22:54:01,592 | INFO | src.validator | Category check passed
+2026-10-15 22:54:01,597 | INFO | src.validator | Supplier check passed
+2026-10-15 22:54:01,603 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-15 22:54:01,606 | INFO | src.validator | Reorder_Level check passed
+2026-10-15 22:54:01,609 | WARNING | src.validator | Unit_Cost check failed: 1  invalid rows
+2026-10-15 22:54:01,611 | INFO | src.validator | Unit_Price check passed
+2026-10-15 22:54:01,614 | INFO | src.validator | Price vs Cost check passed
+2026-10-15 22:54:01,619 | INFO | src.validator | Units_Sold check passed
+2026-10-15 22:54:01,625 | INFO | src.validator | Order_Date check passed
+2026-10-15 22:54:01,626 | INFO | src.validator | Validation finished: 3  invalid rows in total
+2026-10-15 22:54:01,626 | INFO | src.cleaner | Cleaning started
+2026-10-15 22:54:01,632 | INFO | src.cleaner | Unit_Cost: fixed 1 negative values
+2026-10-15 22:54:01,633 | INFO | src.cleaner | Cleaning finished
+2026-10-15 22:54:01,634 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-15 22:54:01,641 | INFO | src.validator | Product_ID check passed
+2026-10-15 22:54:01,645 | INFO | src.validator | Product_Name check passed
+2026-10-15 22:54:01,651 | INFO | src.validator | Category check passed
+2026-10-15 22:54:01,657 | INFO | src.validator | Supplier check passed
+2026-10-15 22:54:01,660 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-15 22:54:01,663 | INFO | src.validator | Reorder_Level check passed
+2026-10-15 22:54:01,667 | INFO | src.validator | Unit_Cost check passed
+2026-10-15 22:54:01,673 | INFO | src.validator | Unit_Price check passed
+2026-10-15 22:54:01,675 | INFO | src.validator | Price vs Cost check passed
+2026-10-15 22:54:01,678 | INFO | src.validator | Units_Sold check passed
+2026-10-15 22:54:01,683 | INFO | src.validator | Order_Date check passed
+2026-10-15 22:54:01,684 | INFO | src.validator | Validation finished: 2  invalid rows in total
+2026-10-15 22:56:17,041 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-15 22:56:17,059 | INFO | src.validator | Product_ID check passed
+2026-10-15 22:56:17,066 | INFO | src.validator | Product_Name check passed
+2026-10-15 22:56:17,077 | INFO | src.validator | Category check passed
+2026-10-15 22:56:17,083 | INFO | src.validator | Supplier check passed
+2026-10-15 22:56:17,089 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-15 22:56:17,100 | INFO | src.validator | Reorder_Level check passed
+2026-10-15 22:56:17,105 | WARNING | src.validator | Unit_Cost check failed: 1  invalid rows
+2026-10-15 22:56:17,111 | INFO | src.validator | Unit_Price check passed
+2026-10-15 22:56:17,114 | INFO | src.validator | Price vs Cost check passed
+2026-10-15 22:56:17,117 | INFO | src.validator | Units_Sold check passed
+2026-10-15 22:56:17,124 | INFO | src.validator | Order_Date check passed
+2026-10-15 22:56:17,125 | INFO | src.validator | Validation finished: 3  invalid rows in total
+2026-10-15 22:56:17,126 | INFO | src.cleaner | Cleaning started
+2026-10-15 22:56:17,137 | INFO | src.cleaner | Unit_Cost: fixed 1 negative values
+2026-10-15 22:56:17,138 | INFO | src.cleaner | Cleaning finished
+2026-10-15 22:56:17,139 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-15 22:56:17,149 | INFO | src.validator | Product_ID check passed
+2026-10-15 22:56:17,157 | INFO | src.validator | Product_Name check passed
+2026-10-15 22:56:17,166 | INFO | src.validator | Category check passed
+2026-10-15 22:56:17,175 | INFO | src.validator | Supplier check passed
+2026-10-15 22:56:17,181 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-15 22:56:17,186 | INFO | src.validator | Reorder_Level check passed
+2026-10-15 22:56:17,193 | INFO | src.validator | Unit_Cost check passed
+2026-10-15 22:56:17,198 | INFO | src.validator | Unit_Price check passed
+2026-10-15 22:56:17,202 | INFO | src.validator | Price vs Cost check passed
+2026-10-15 22:56:17,208 | INFO | src.validator | Units_Sold check passed
+2026-10-15 22:56:17,219 | INFO | src.validator | Order_Date check passed
+2026-10-15 22:56:17,220 | INFO | src.validator | Validation finished: 2  invalid rows in total
+2026-10-15 23:04:54,843 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-15 23:04:54,856 | INFO | src.validator | Product_ID check passed
+2026-10-15 23:04:54,862 | INFO | src.validator | Product_Name check passed
+2026-10-15 23:04:54,866 | WARNING | src.validator | Category check failed: 1  invalid rows
+2026-10-15 23:04:54,875 | INFO | src.validator | Supplier check passed
+2026-10-15 23:04:54,879 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-15 23:04:54,892 | INFO | src.validator | Reorder_Level check passed
+2026-10-15 23:04:54,894 | WARNING | src.validator | Unit_Cost check failed: 1  invalid rows
+2026-10-15 23:04:54,897 | INFO | src.validator | Unit_Price check passed
+2026-10-15 23:04:54,899 | INFO | src.validator | Price vs Cost check passed
+2026-10-15 23:04:54,901 | INFO | src.validator | Units_Sold check passed
+2026-10-15 23:04:54,906 | INFO | src.validator | Order_Date check passed
+2026-10-15 23:04:54,907 | INFO | src.validator | Validation finished: 4  invalid rows in total
+2026-10-15 23:04:54,907 | INFO | src.cleaner | Cleaning started
+2026-10-15 23:04:54,913 | INFO | src.cleaner | Unit_Cost: fixed 1 negative values
+2026-10-15 23:04:54,914 | INFO | src.cleaner | Cleaning finished
+2026-10-15 23:04:54,915 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-15 23:04:54,922 | INFO | src.validator | Product_ID check passed
+2026-10-15 23:04:54,929 | INFO | src.validator | Product_Name check passed
+2026-10-15 23:04:54,938 | WARNING | src.validator | Category check failed: 1  invalid rows
+2026-10-15 23:04:54,943 | INFO | src.validator | Supplier check passed
+2026-10-15 23:04:54,947 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-15 23:04:54,952 | INFO | src.validator | Reorder_Level check passed
+2026-10-15 23:04:54,955 | INFO | src.validator | Unit_Cost check passed
+2026-10-15 23:04:54,958 | INFO | src.validator | Unit_Price check passed
+2026-10-15 23:04:54,961 | INFO | src.validator | Price vs Cost check passed
+2026-10-15 23:04:54,965 | INFO | src.validator | Units_Sold check passed
+2026-10-15 23:04:54,971 | INFO | src.validator | Order_Date check passed
+2026-10-15 23:04:54,972 | INFO | src.validator | Validation finished: 3  invalid rows in total
+2026-10-16 08:04:31,000 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-16 08:04:31,011 | INFO | src.validator | Product_ID check passed
+2026-10-16 08:04:31,018 | INFO | src.validator | Product_Name check passed
+2026-10-16 08:04:31,022 | WARNING | src.validator | Category check failed: 1  invalid rows
+2026-10-16 08:04:31,026 | INFO | src.validator | Supplier check passed
+2026-10-16 08:04:31,029 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-16 08:04:31,034 | INFO | src.validator | Reorder_Level check passed
+2026-10-16 08:04:31,036 | WARNING | src.validator | Unit_Cost check failed: 1  invalid rows
+2026-10-16 08:04:31,039 | INFO | src.validator | Unit_Price check passed
+2026-10-16 08:04:31,041 | INFO | src.validator | Price vs Cost check passed
+2026-10-16 08:04:31,043 | INFO | src.validator | Units_Sold check passed
+2026-10-16 08:04:31,049 | INFO | src.validator | Order_Date check passed
+2026-10-16 08:04:31,049 | INFO | src.validator | Validation finished: 4  invalid rows in total
+2026-10-16 08:04:31,049 | INFO | src.cleaner | Cleaning started
+2026-10-16 08:04:31,057 | INFO | src.cleaner | Unit_Cost: fixed 1 negative values
+2026-10-16 08:04:31,058 | INFO | src.cleaner | Cleaning finished
+2026-10-16 08:04:31,058 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-16 08:04:31,064 | INFO | src.validator | Product_ID check passed
+2026-10-16 08:04:31,069 | INFO | src.validator | Product_Name check passed
+2026-10-16 08:04:31,073 | WARNING | src.validator | Category check failed: 1  invalid rows
+2026-10-16 08:04:31,080 | INFO | src.validator | Supplier check passed
+2026-10-16 08:04:31,087 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-16 08:04:31,093 | INFO | src.validator | Reorder_Level check passed
+2026-10-16 08:04:31,097 | INFO | src.validator | Unit_Cost check passed
+2026-10-16 08:04:31,102 | INFO | src.validator | Unit_Price check passed
+2026-10-16 08:04:31,105 | INFO | src.validator | Price vs Cost check passed
+2026-10-16 08:04:31,110 | INFO | src.validator | Units_Sold check passed
+2026-10-16 08:04:31,121 | INFO | src.validator | Order_Date check passed
+2026-10-16 08:04:31,122 | INFO | src.validator | Validation finished: 3  invalid rows in total
+2026-10-16 09:01:22,295 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-16 09:01:22,306 | INFO | src.validator | Product_ID check passed
+2026-10-16 09:01:22,312 | INFO | src.validator | Product_Name check passed
+2026-10-16 09:01:22,317 | WARNING | src.validator | Category check failed: 1  invalid rows
+2026-10-16 09:01:22,320 | INFO | src.validator | Supplier check passed
+2026-10-16 09:01:22,323 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-16 09:01:22,329 | INFO | src.validator | Reorder_Level check passed
+2026-10-16 09:01:22,332 | WARNING | src.validator | Unit_Cost check failed: 1  invalid rows
+2026-10-16 09:01:22,335 | INFO | src.validator | Unit_Price check passed
+2026-10-16 09:01:22,337 | INFO | src.validator | Price vs Cost check passed
+2026-10-16 09:01:22,340 | INFO | src.validator | Units_Sold check passed
+2026-10-16 09:01:22,345 | INFO | src.validator | Order_Date check passed
+2026-10-16 09:01:22,346 | INFO | src.validator | Validation finished: 4  invalid rows in total
+2026-10-16 09:01:22,346 | INFO | src.cleaner | Cleaning started
+2026-10-16 09:01:22,354 | INFO | src.cleaner | Unit_Cost: fixed 1 negative values
+2026-10-16 09:01:22,356 | INFO | src.cleaner | Cleaning finished
+2026-10-16 09:01:22,357 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-16 09:01:22,362 | INFO | src.validator | Product_ID check passed
+2026-10-16 09:01:22,369 | INFO | src.validator | Product_Name check passed
+2026-10-16 09:01:22,373 | WARNING | src.validator | Category check failed: 1  invalid rows
+2026-10-16 09:01:22,378 | INFO | src.validator | Supplier check passed
+2026-10-16 09:01:22,382 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-16 09:01:22,386 | INFO | src.validator | Reorder_Level check passed
+2026-10-16 09:01:22,388 | INFO | src.validator | Unit_Cost check passed
+2026-10-16 09:01:22,391 | INFO | src.validator | Unit_Price check passed
+2026-10-16 09:01:22,393 | INFO | src.validator | Price vs Cost check passed
+2026-10-16 09:01:22,395 | INFO | src.validator | Units_Sold check passed
+2026-10-16 09:01:22,400 | INFO | src.validator | Order_Date check passed
+2026-10-16 09:01:22,401 | INFO | src.validator | Validation finished: 3  invalid rows in total
+2026-10-16 09:03:24,767 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-16 09:03:24,773 | INFO | src.validator | Product_ID check passed
+2026-10-16 09:03:24,778 | INFO | src.validator | Product_Name check passed
+2026-10-16 09:03:24,781 | WARNING | src.validator | Category check failed: 1  invalid rows
+2026-10-16 09:03:24,785 | INFO | src.validator | Supplier check passed
+2026-10-16 09:03:24,787 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-16 09:03:24,789 | INFO | src.validator | Reorder_Level check passed
+2026-10-16 09:03:24,792 | WARNING | src.validator | Unit_Cost check failed: 1  invalid rows
+2026-10-16 09:03:24,794 | INFO | src.validator | Unit_Price check passed
+2026-10-16 09:03:24,795 | INFO | src.validator | Price vs Cost check passed
+2026-10-16 09:03:24,798 | INFO | src.validator | Units_Sold check passed
+2026-10-16 09:03:24,802 | INFO | src.validator | Order_Date check passed
+2026-10-16 09:03:24,803 | INFO | src.validator | Validation finished: 4  invalid rows in total
+2026-10-16 09:03:24,803 | INFO | src.cleaner | Cleaning started
+2026-10-16 09:03:24,808 | INFO | src.cleaner | Unit_Cost: fixed 1 negative values
+2026-10-16 09:03:24,813 | INFO | src.cleaner | Cleaning finished
+2026-10-16 09:03:24,814 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-16 09:03:24,820 | INFO | src.validator | Product_ID check passed
+2026-10-16 09:03:24,823 | INFO | src.validator | Product_Name check passed
+2026-10-16 09:03:24,827 | WARNING | src.validator | Category check failed: 1  invalid rows
+2026-10-16 09:03:24,831 | INFO | src.validator | Supplier check passed
+2026-10-16 09:03:24,834 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-16 09:03:24,836 | INFO | src.validator | Reorder_Level check passed
+2026-10-16 09:03:24,839 | INFO | src.validator | Unit_Cost check passed
+2026-10-16 09:03:24,841 | INFO | src.validator | Unit_Price check passed
+2026-10-16 09:03:24,844 | INFO | src.validator | Price vs Cost check passed
+2026-10-16 09:03:24,847 | INFO | src.validator | Units_Sold check passed
+2026-10-16 09:03:24,850 | INFO | src.validator | Order_Date check passed
+2026-10-16 09:03:24,850 | INFO | src.validator | Validation finished: 3  invalid rows in total
+2026-10-16 09:41:24,903 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-16 09:41:24,914 | INFO | src.validator | Product_ID check passed
+2026-10-16 09:41:24,919 | INFO | src.validator | Product_Name check passed
+2026-10-16 09:41:24,923 | WARNING | src.validator | Category check failed: 1  invalid rows
+2026-10-16 09:41:24,926 | INFO | src.validator | Supplier check passed
+2026-10-16 09:41:24,928 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-16 09:41:24,933 | INFO | src.validator | Reorder_Level check passed
+2026-10-16 09:41:24,936 | WARNING | src.validator | Unit_Cost check failed: 1  invalid rows
+2026-10-16 09:41:24,943 | INFO | src.validator | Unit_Price check passed
+2026-10-16 09:41:24,945 | INFO | src.validator | Price vs Cost check passed
+2026-10-16 09:41:24,947 | INFO | src.validator | Units_Sold check passed
+2026-10-16 09:41:24,952 | INFO | src.validator | Order_Date check passed
+2026-10-16 09:41:24,952 | INFO | src.validator | Validation finished: 4  invalid rows in total
+2026-10-16 09:41:24,952 | INFO | src.cleaner | Cleaning started
+2026-10-16 09:41:24,957 | INFO | src.cleaner | Category: fixed 1 values
+2026-10-16 09:41:24,962 | INFO | src.cleaner | Unit_Cost: fixed 1 negative values
+2026-10-16 09:41:24,967 | INFO | src.cleaner | Cleaning finished
+2026-10-16 09:41:24,968 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-16 09:41:24,979 | INFO | src.validator | Product_ID check passed
+2026-10-16 09:41:24,987 | INFO | src.validator | Product_Name check passed
+2026-10-16 09:41:24,998 | WARNING | src.validator | Category check failed: 1  invalid rows
+2026-10-16 09:41:25,007 | INFO | src.validator | Supplier check passed
+2026-10-16 09:41:25,013 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-16 09:41:25,019 | INFO | src.validator | Reorder_Level check passed
+2026-10-16 09:41:25,026 | INFO | src.validator | Unit_Cost check passed
+2026-10-16 09:41:25,032 | INFO | src.validator | Unit_Price check passed
+2026-10-16 09:41:25,036 | INFO | src.validator | Price vs Cost check passed
+2026-10-16 09:41:25,043 | INFO | src.validator | Units_Sold check passed
+2026-10-16 09:41:25,047 | INFO | src.validator | Order_Date check passed
+2026-10-16 09:41:25,048 | INFO | src.validator | Validation finished: 3  invalid rows in total
+2026-10-16 09:44:18,046 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-16 09:44:18,059 | INFO | src.validator | Product_ID check passed
+2026-10-16 09:44:18,066 | INFO | src.validator | Product_Name check passed
+2026-10-16 09:44:18,071 | WARNING | src.validator | Category check failed: 1  invalid rows
+2026-10-16 09:44:18,075 | INFO | src.validator | Supplier check passed
+2026-10-16 09:44:18,080 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-16 09:44:18,087 | INFO | src.validator | Reorder_Level check passed
+2026-10-16 09:44:18,092 | WARNING | src.validator | Unit_Cost check failed: 1  invalid rows
+2026-10-16 09:44:18,098 | INFO | src.validator | Unit_Price check passed
+2026-10-16 09:44:18,103 | INFO | src.validator | Price vs Cost check passed
+2026-10-16 09:44:18,107 | INFO | src.validator | Units_Sold check passed
+2026-10-16 09:44:18,114 | INFO | src.validator | Order_Date check passed
+2026-10-16 09:44:18,115 | INFO | src.validator | Validation finished: 4  invalid rows in total
+2026-10-16 09:44:18,115 | INFO | src.cleaner | Cleaning started
+2026-10-16 09:44:18,122 | INFO | src.cleaner | Category: fixed 1 values
+2026-10-16 09:44:18,130 | INFO | src.cleaner | Unit_Cost: fixed 1 negative values
+2026-10-16 09:44:18,141 | INFO | src.cleaner | Cleaning finished
+2026-10-16 09:44:18,142 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-16 09:44:18,153 | INFO | src.validator | Product_ID check passed
+2026-10-16 09:44:18,159 | INFO | src.validator | Product_Name check passed
+2026-10-16 09:44:18,164 | INFO | src.validator | Category check passed
+2026-10-16 09:44:18,170 | INFO | src.validator | Supplier check passed
+2026-10-16 09:44:18,173 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-16 09:44:18,176 | INFO | src.validator | Reorder_Level check passed
+2026-10-16 09:44:18,180 | INFO | src.validator | Unit_Cost check passed
+2026-10-16 09:44:18,184 | INFO | src.validator | Unit_Price check passed
+2026-10-16 09:44:18,187 | INFO | src.validator | Price vs Cost check passed
+2026-10-16 09:44:18,191 | INFO | src.validator | Units_Sold check passed
+2026-10-16 09:44:18,195 | INFO | src.validator | Order_Date check passed
+2026-10-16 09:44:18,196 | INFO | src.validator | Validation finished: 2  invalid rows in total
+2026-10-16 20:16:59,394 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-16 20:16:59,406 | INFO | src.validator | Product_ID check passed
+2026-10-16 20:16:59,411 | INFO | src.validator | Product_Name check passed
+2026-10-16 20:16:59,415 | WARNING | src.validator | Category check failed: 1  invalid rows
+2026-10-16 20:16:59,419 | INFO | src.validator | Supplier check passed
+2026-10-16 20:16:59,422 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-16 20:16:59,427 | INFO | src.validator | Reorder_Level check passed
+2026-10-16 20:16:59,430 | WARNING | src.validator | Unit_Cost check failed: 1  invalid rows
+2026-10-16 20:16:59,432 | INFO | src.validator | Unit_Price check passed
+2026-10-16 20:16:59,434 | INFO | src.validator | Price vs Cost check passed
+2026-10-16 20:16:59,437 | INFO | src.validator | Units_Sold check passed
+2026-10-16 20:16:59,443 | INFO | src.validator | Order_Date check passed
+2026-10-16 20:16:59,444 | INFO | src.validator | Validation finished: 4  invalid rows in total
+2026-10-16 20:16:59,445 | INFO | src.cleaner | Cleaning started
+2026-10-16 20:16:59,450 | INFO | src.cleaner | Category: fixed 1 values
+2026-10-16 20:16:59,459 | INFO | src.cleaner | Unit_Cost: fixed 1 negative values
+2026-10-16 20:16:59,468 | INFO | src.cleaner | Cleaning finished
+2026-10-16 20:16:59,469 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-16 20:16:59,479 | INFO | src.validator | Product_ID check passed
+2026-10-16 20:16:59,485 | INFO | src.validator | Product_Name check passed
+2026-10-16 20:16:59,490 | INFO | src.validator | Category check passed
+2026-10-16 20:16:59,497 | INFO | src.validator | Supplier check passed
+2026-10-16 20:16:59,500 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-16 20:16:59,503 | INFO | src.validator | Reorder_Level check passed
+2026-10-16 20:16:59,506 | INFO | src.validator | Unit_Cost check passed
+2026-10-16 20:16:59,510 | INFO | src.validator | Unit_Price check passed
+2026-10-16 20:16:59,513 | INFO | src.validator | Price vs Cost check passed
+2026-10-16 20:16:59,516 | INFO | src.validator | Units_Sold check passed
+2026-10-16 20:16:59,520 | INFO | src.validator | Order_Date check passed
+2026-10-16 20:16:59,521 | INFO | src.validator | Validation finished: 2  invalid rows in total
+2026-10-16 20:25:14,502 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-16 20:25:14,513 | INFO | src.validator | Product_ID check passed
+2026-10-16 20:25:14,519 | INFO | src.validator | Product_Name check passed
+2026-10-16 20:25:14,523 | WARNING | src.validator | Category check failed: 1  invalid rows
+2026-10-16 20:25:14,530 | INFO | src.validator | Supplier check passed
+2026-10-16 20:25:14,533 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-16 20:25:14,539 | INFO | src.validator | Reorder_Level check passed
+2026-10-16 20:25:14,542 | WARNING | src.validator | Unit_Cost check failed: 1  invalid rows
+2026-10-16 20:25:14,546 | INFO | src.validator | Unit_Price check passed
+2026-10-16 20:25:14,548 | INFO | src.validator | Price vs Cost check passed
+2026-10-16 20:25:14,552 | INFO | src.validator | Units_Sold check passed
+2026-10-16 20:25:14,559 | INFO | src.validator | Order_Date check passed
+2026-10-16 20:25:14,559 | INFO | src.validator | Validation finished: 4  invalid rows in total
+2026-10-16 20:25:14,560 | INFO | src.cleaner | Cleaning started
+2026-10-16 20:25:14,568 | INFO | src.cleaner | Category: fixed 1 values
+2026-10-16 20:25:14,576 | INFO | src.cleaner | Unit_Cost: fixed 1 negative values
+2026-10-16 20:25:14,586 | INFO | src.cleaner | Cleaning finished
+2026-10-16 20:25:14,587 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-16 20:25:14,594 | INFO | src.validator | Product_ID check passed
+2026-10-16 20:25:14,601 | INFO | src.validator | Product_Name check passed
+2026-10-16 20:25:14,608 | INFO | src.validator | Category check passed
+2026-10-16 20:25:14,616 | INFO | src.validator | Supplier check passed
+2026-10-16 20:25:14,623 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-16 20:25:14,627 | INFO | src.validator | Reorder_Level check passed
+2026-10-16 20:25:14,633 | INFO | src.validator | Unit_Cost check passed
+2026-10-16 20:25:14,639 | INFO | src.validator | Unit_Price check passed
+2026-10-16 20:25:14,642 | INFO | src.validator | Price vs Cost check passed
+2026-10-16 20:25:14,648 | INFO | src.validator | Units_Sold check passed
+2026-10-16 20:25:14,653 | INFO | src.validator | Order_Date check passed
+2026-10-16 20:25:14,655 | INFO | src.validator | Validation finished: 2  invalid rows in total
+2026-10-16 20:26:41,931 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-16 20:26:41,938 | INFO | src.validator | Product_ID check passed
+2026-10-16 20:26:41,942 | INFO | src.validator | Product_Name check passed
+2026-10-16 20:26:41,946 | WARNING | src.validator | Category check failed: 1  invalid rows
+2026-10-16 20:26:41,950 | INFO | src.validator | Supplier check passed
+2026-10-16 20:26:41,953 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-16 20:26:41,956 | INFO | src.validator | Reorder_Level check passed
+2026-10-16 20:26:41,959 | WARNING | src.validator | Unit_Cost check failed: 1  invalid rows
+2026-10-16 20:26:41,961 | INFO | src.validator | Unit_Price check passed
+2026-10-16 20:26:41,964 | INFO | src.validator | Price vs Cost check passed
+2026-10-16 20:26:41,967 | INFO | src.validator | Units_Sold check passed
+2026-10-16 20:26:41,972 | INFO | src.validator | Order_Date check passed
+2026-10-16 20:26:41,973 | INFO | src.validator | Validation finished: 4  invalid rows in total
+2026-10-16 20:26:41,973 | INFO | src.cleaner | Cleaning started
+2026-10-16 20:26:41,977 | INFO | src.cleaner | Category: fixed 1 values
+2026-10-16 20:26:41,985 | INFO | src.cleaner | Unit_Cost: fixed 1 negative values
+2026-10-16 20:26:41,992 | INFO | src.cleaner | Cleaning finished
+2026-10-16 20:26:41,993 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-16 20:26:42,001 | INFO | src.validator | Product_ID check passed
+2026-10-16 20:26:42,006 | INFO | src.validator | Product_Name check passed
+2026-10-16 20:26:42,013 | INFO | src.validator | Category check passed
+2026-10-16 20:26:42,020 | INFO | src.validator | Supplier check passed
+2026-10-16 20:26:42,024 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-16 20:26:42,029 | INFO | src.validator | Reorder_Level check passed
+2026-10-16 20:26:42,034 | INFO | src.validator | Unit_Cost check passed
+2026-10-16 20:26:42,038 | INFO | src.validator | Unit_Price check passed
+2026-10-16 20:26:42,042 | INFO | src.validator | Price vs Cost check passed
+2026-10-16 20:26:42,047 | INFO | src.validator | Units_Sold check passed
+2026-10-16 20:26:42,052 | INFO | src.validator | Order_Date check passed
+2026-10-16 20:26:42,053 | INFO | src.validator | Validation finished: 2  invalid rows in total
+2026-10-16 20:28:16,813 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-16 20:28:16,819 | INFO | src.validator | Product_ID check passed
+2026-10-16 20:28:16,823 | INFO | src.validator | Product_Name check passed
+2026-10-16 20:28:16,827 | WARNING | src.validator | Category check failed: 1  invalid rows
+2026-10-16 20:28:16,830 | INFO | src.validator | Supplier check passed
+2026-10-16 20:28:16,833 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-16 20:28:16,835 | INFO | src.validator | Reorder_Level check passed
+2026-10-16 20:28:16,837 | WARNING | src.validator | Unit_Cost check failed: 1  invalid rows
+2026-10-16 20:28:16,839 | INFO | src.validator | Unit_Price check passed
+2026-10-16 20:28:16,841 | INFO | src.validator | Price vs Cost check passed
+2026-10-16 20:28:16,844 | INFO | src.validator | Units_Sold check passed
+2026-10-16 20:28:16,849 | INFO | src.validator | Order_Date check passed
+2026-10-16 20:28:16,850 | INFO | src.validator | Validation finished: 4  invalid rows in total
+2026-10-16 20:28:16,851 | INFO | src.cleaner | Cleaning started
+2026-10-16 20:28:16,855 | INFO | src.cleaner | Category: fixed 1 values
+2026-10-16 20:28:16,863 | INFO | src.cleaner | Unit_Cost: fixed 1 negative values
+2026-10-16 20:28:16,871 | INFO | src.cleaner | Cleaning finished
+2026-10-16 20:28:16,872 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-16 20:28:16,877 | INFO | src.validator | Product_ID check passed
+2026-10-16 20:28:16,884 | INFO | src.validator | Product_Name check passed
+2026-10-16 20:28:16,888 | INFO | src.validator | Category check passed
+2026-10-16 20:28:16,892 | INFO | src.validator | Supplier check passed
+2026-10-16 20:28:16,895 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-16 20:28:16,898 | INFO | src.validator | Reorder_Level check passed
+2026-10-16 20:28:16,901 | INFO | src.validator | Unit_Cost check passed
+2026-10-16 20:28:16,905 | INFO | src.validator | Unit_Price check passed
+2026-10-16 20:28:16,908 | INFO | src.validator | Price vs Cost check passed
+2026-10-16 20:28:16,912 | INFO | src.validator | Units_Sold check passed
+2026-10-16 20:28:16,915 | INFO | src.validator | Order_Date check passed
+2026-10-16 20:28:16,916 | INFO | src.validator | Validation finished: 2  invalid rows in total
+2026-10-16 20:40:45,365 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-16 20:40:45,378 | INFO | src.validator | Product_ID check passed
+2026-10-16 20:40:45,384 | INFO | src.validator | Product_Name check passed
+2026-10-16 20:40:45,388 | WARNING | src.validator | Category check failed: 1  invalid rows
+2026-10-16 20:40:45,392 | INFO | src.validator | Supplier check passed
+2026-10-16 20:40:45,396 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-16 20:40:45,402 | INFO | src.validator | Reorder_Level check passed
+2026-10-16 20:40:45,405 | WARNING | src.validator | Unit_Cost check failed: 1  invalid rows
+2026-10-16 20:40:45,409 | INFO | src.validator | Unit_Price check passed
+2026-10-16 20:40:45,414 | INFO | src.validator | Price vs Cost check passed
+2026-10-16 20:40:45,418 | INFO | src.validator | Units_Sold check passed
+2026-10-16 20:40:45,424 | INFO | src.validator | Order_Date check passed
+2026-10-16 20:40:45,425 | INFO | src.validator | Validation finished: 4  invalid rows in total
+2026-10-16 20:40:45,425 | INFO | src.cleaner | Cleaning started
+2026-10-16 20:40:45,432 | INFO | src.cleaner | Category: fixed 1 values
+2026-10-16 20:40:45,442 | INFO | src.cleaner | Unit_Cost: fixed 1 negative values
+2026-10-16 20:40:45,453 | INFO | src.cleaner | Cleaning finished
+2026-10-16 20:40:45,454 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-16 20:40:45,462 | INFO | src.validator | Product_ID check passed
+2026-10-16 20:40:45,470 | INFO | src.validator | Product_Name check passed
+2026-10-16 20:40:45,475 | INFO | src.validator | Category check passed
+2026-10-16 20:40:45,482 | INFO | src.validator | Supplier check passed
+2026-10-16 20:40:45,487 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-16 20:40:45,490 | INFO | src.validator | Reorder_Level check passed
+2026-10-16 20:40:45,495 | INFO | src.validator | Unit_Cost check passed
+2026-10-16 20:40:45,501 | INFO | src.validator | Unit_Price check passed
+2026-10-16 20:40:45,505 | INFO | src.validator | Price vs Cost check passed
+2026-10-16 20:40:45,508 | INFO | src.validator | Units_Sold check passed
+2026-10-16 20:40:45,512 | INFO | src.validator | Order_Date check passed
+2026-10-16 20:40:45,513 | INFO | src.validator | Validation finished: 2  invalid rows in total
+2026-10-16 20:47:09,628 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-16 20:47:09,640 | INFO | src.validator | Product_ID check passed
+2026-10-16 20:47:09,644 | INFO | src.validator | Product_Name check passed
+2026-10-16 20:47:09,648 | WARNING | src.validator | Category check failed: 1  invalid rows
+2026-10-16 20:47:09,652 | INFO | src.validator | Supplier check passed
+2026-10-16 20:47:09,656 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-16 20:47:09,660 | INFO | src.validator | Reorder_Level check passed
+2026-10-16 20:47:09,663 | WARNING | src.validator | Unit_Cost check failed: 1  invalid rows
+2026-10-16 20:47:09,666 | INFO | src.validator | Unit_Price check passed
+2026-10-16 20:47:09,668 | INFO | src.validator | Price vs Cost check passed
+2026-10-16 20:47:09,672 | INFO | src.validator | Units_Sold check passed
+2026-10-16 20:47:09,678 | INFO | src.validator | Order_Date check passed
+2026-10-16 20:47:09,679 | INFO | src.validator | Validation finished: 4  invalid rows in total
+2026-10-16 20:47:09,679 | INFO | src.cleaner | Cleaning started
+2026-10-16 20:47:09,686 | INFO | src.cleaner | Category: fixed 1 values
+2026-10-16 20:47:09,697 | INFO | src.cleaner | Unit_Cost: fixed 1 negative values
+2026-10-16 20:47:09,705 | INFO | src.cleaner | Cleaning finished
+2026-10-16 20:47:09,707 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-16 20:47:09,717 | INFO | src.validator | Product_ID check passed
+2026-10-16 20:47:09,724 | INFO | src.validator | Product_Name check passed
+2026-10-16 20:47:09,732 | INFO | src.validator | Category check passed
+2026-10-16 20:47:09,738 | INFO | src.validator | Supplier check passed
+2026-10-16 20:47:09,744 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-16 20:47:09,748 | INFO | src.validator | Reorder_Level check passed
+2026-10-16 20:47:09,752 | INFO | src.validator | Unit_Cost check passed
+2026-10-16 20:47:09,755 | INFO | src.validator | Unit_Price check passed
+2026-10-16 20:47:09,758 | INFO | src.validator | Price vs Cost check passed
+2026-10-16 20:47:09,762 | INFO | src.validator | Units_Sold check passed
+2026-10-16 20:47:09,764 | INFO | src.validator | Order_Date check passed
+2026-10-16 20:47:09,764 | INFO | src.validator | Validation finished: 2  invalid rows in total
+2026-10-16 20:47:38,617 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-16 20:47:38,624 | INFO | src.validator | Product_ID check passed
+2026-10-16 20:47:38,628 | INFO | src.validator | Product_Name check passed
+2026-10-16 20:47:38,632 | WARNING | src.validator | Category check failed: 1  invalid rows
+2026-10-16 20:47:38,637 | INFO | src.validator | Supplier check passed
+2026-10-16 20:47:38,640 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-16 20:47:38,643 | INFO | src.validator | Reorder_Level check passed
+2026-10-16 20:47:38,645 | WARNING | src.validator | Unit_Cost check failed: 1  invalid rows
+2026-10-16 20:47:38,648 | INFO | src.validator | Unit_Price check passed
+2026-10-16 20:47:38,650 | INFO | src.validator | Price vs Cost check passed
+2026-10-16 20:47:38,655 | INFO | src.validator | Units_Sold check passed
+2026-10-16 20:47:38,659 | INFO | src.validator | Order_Date check passed
+2026-10-16 20:47:38,660 | INFO | src.validator | Validation finished: 4  invalid rows in total
+2026-10-16 20:47:38,660 | INFO | src.cleaner | Cleaning started
+2026-10-16 20:47:38,665 | INFO | src.cleaner | Category: fixed 1 values
+2026-10-16 20:47:38,673 | INFO | src.cleaner | Unit_Cost: fixed 1 negative values
+2026-10-16 20:47:38,680 | INFO | src.cleaner | Cleaning finished
+2026-10-16 20:47:38,680 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-16 20:47:38,687 | INFO | src.validator | Product_ID check passed
+2026-10-16 20:47:38,692 | INFO | src.validator | Product_Name check passed
+2026-10-16 20:47:38,695 | INFO | src.validator | Category check passed
+2026-10-16 20:47:38,699 | INFO | src.validator | Supplier check passed
+2026-10-16 20:47:38,703 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-16 20:47:38,707 | INFO | src.validator | Reorder_Level check passed
+2026-10-16 20:47:38,709 | INFO | src.validator | Unit_Cost check passed
+2026-10-16 20:47:38,712 | INFO | src.validator | Unit_Price check passed
+2026-10-16 20:47:38,714 | INFO | src.validator | Price vs Cost check passed
+2026-10-16 20:47:38,716 | INFO | src.validator | Units_Sold check passed
+2026-10-16 20:47:38,720 | INFO | src.validator | Order_Date check passed
+2026-10-16 20:47:38,721 | INFO | src.validator | Validation finished: 2  invalid rows in total
+2026-10-16 20:49:01,212 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-16 20:49:01,218 | INFO | src.validator | Product_ID check passed
+2026-10-16 20:49:01,222 | INFO | src.validator | Product_Name check passed
+2026-10-16 20:49:01,226 | WARNING | src.validator | Category check failed: 1  invalid rows
+2026-10-16 20:49:01,229 | INFO | src.validator | Supplier check passed
+2026-10-16 20:49:01,232 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-16 20:49:01,234 | INFO | src.validator | Reorder_Level check passed
+2026-10-16 20:49:01,237 | WARNING | src.validator | Unit_Cost check failed: 1  invalid rows
+2026-10-16 20:49:01,239 | INFO | src.validator | Unit_Price check passed
+2026-10-16 20:49:01,241 | INFO | src.validator | Price vs Cost check passed
+2026-10-16 20:49:01,243 | INFO | src.validator | Units_Sold check passed
+2026-10-16 20:49:01,248 | INFO | src.validator | Order_Date check passed
+2026-10-16 20:49:01,249 | INFO | src.validator | Validation finished: 4  invalid rows in total
+2026-10-16 20:49:01,249 | INFO | src.cleaner | Cleaning started
+2026-10-16 20:49:01,254 | INFO | src.cleaner | Category: fixed 1 values
+2026-10-16 20:49:01,260 | INFO | src.cleaner | Unit_Cost: fixed 1 negative values
+2026-10-16 20:49:01,268 | INFO | src.cleaner | Cleaning finished
+2026-10-16 20:49:01,269 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-16 20:49:01,277 | INFO | src.validator | Product_ID check passed
+2026-10-16 20:49:01,284 | INFO | src.validator | Product_Name check passed
+2026-10-16 20:49:01,294 | INFO | src.validator | Category check passed
+2026-10-16 20:49:01,303 | INFO | src.validator | Supplier check passed
+2026-10-16 20:49:01,309 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-16 20:49:01,314 | INFO | src.validator | Reorder_Level check passed
+2026-10-16 20:49:01,319 | INFO | src.validator | Unit_Cost check passed
+2026-10-16 20:49:01,323 | INFO | src.validator | Unit_Price check passed
+2026-10-16 20:49:01,326 | INFO | src.validator | Price vs Cost check passed
+2026-10-16 20:49:01,330 | INFO | src.validator | Units_Sold check passed
+2026-10-16 20:49:01,334 | INFO | src.validator | Order_Date check passed
+2026-10-16 20:49:01,335 | INFO | src.validator | Validation finished: 2  invalid rows in total
+2026-10-16 20:50:18,209 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-16 20:50:18,215 | INFO | src.validator | Product_ID check passed
+2026-10-16 20:50:18,219 | INFO | src.validator | Product_Name check passed
+2026-10-16 20:50:18,224 | WARNING | src.validator | Category check failed: 1  invalid rows
+2026-10-16 20:50:18,227 | INFO | src.validator | Supplier check passed
+2026-10-16 20:50:18,230 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-16 20:50:18,232 | INFO | src.validator | Reorder_Level check passed
+2026-10-16 20:50:18,234 | WARNING | src.validator | Unit_Cost check failed: 1  invalid rows
+2026-10-16 20:50:18,236 | INFO | src.validator | Unit_Price check passed
+2026-10-16 20:50:18,238 | INFO | src.validator | Price vs Cost check passed
+2026-10-16 20:50:18,240 | INFO | src.validator | Units_Sold check passed
+2026-10-16 20:50:18,246 | INFO | src.validator | Order_Date check passed
+2026-10-16 20:50:18,247 | INFO | src.validator | Validation finished: 4  invalid rows in total
+2026-10-16 20:50:18,247 | INFO | src.cleaner | Cleaning started
+2026-10-16 20:50:18,252 | INFO | src.cleaner | Category: fixed 1 values
+2026-10-16 20:50:18,259 | INFO | src.cleaner | Unit_Cost: fixed 1 negative values
+2026-10-16 20:50:18,264 | INFO | src.cleaner | Cleaning finished
+2026-10-16 20:50:18,265 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-16 20:50:18,269 | INFO | src.validator | Product_ID check passed
+2026-10-16 20:50:18,272 | INFO | src.validator | Product_Name check passed
+2026-10-16 20:50:18,277 | INFO | src.validator | Category check passed
+2026-10-16 20:50:18,283 | INFO | src.validator | Supplier check passed
+2026-10-16 20:50:18,286 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-16 20:50:18,289 | INFO | src.validator | Reorder_Level check passed
+2026-10-16 20:50:18,294 | INFO | src.validator | Unit_Cost check passed
+2026-10-16 20:50:18,301 | INFO | src.validator | Unit_Price check passed
+2026-10-16 20:50:18,304 | INFO | src.validator | Price vs Cost check passed
+2026-10-16 20:50:18,307 | INFO | src.validator | Units_Sold check passed
+2026-10-16 20:50:18,311 | INFO | src.validator | Order_Date check passed
+2026-10-16 20:50:18,312 | INFO | src.validator | Validation finished: 2  invalid rows in total
+2026-10-16 21:06:04,062 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-16 21:06:04,075 | INFO | src.validator | Product_ID check passed
+2026-10-16 21:06:04,081 | INFO | src.validator | Product_Name check passed
+2026-10-16 21:06:04,086 | WARNING | src.validator | Category check failed: 1  invalid rows
+2026-10-16 21:06:04,090 | INFO | src.validator | Supplier check passed
+2026-10-16 21:06:04,093 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-16 21:06:04,099 | INFO | src.validator | Reorder_Level check passed
+2026-10-16 21:06:04,102 | WARNING | src.validator | Unit_Cost check failed: 1  invalid rows
+2026-10-16 21:06:04,105 | INFO | src.validator | Unit_Price check passed
+2026-10-16 21:06:04,107 | INFO | src.validator | Price vs Cost check passed
+2026-10-16 21:06:04,109 | INFO | src.validator | Units_Sold check passed
+2026-10-16 21:06:04,114 | INFO | src.validator | Order_Date check passed
+2026-10-16 21:06:04,115 | INFO | src.validator | Validation finished: 4  invalid rows in total
+2026-10-16 21:06:04,115 | INFO | src.cleaner | Cleaning started
+2026-10-16 21:06:04,119 | INFO | src.cleaner | Category: fixed 1 values
+2026-10-16 21:06:04,127 | INFO | src.cleaner | Unit_Cost: fixed 1 negative values
+2026-10-16 21:06:04,138 | INFO | src.cleaner | Cleaning finished
+2026-10-16 21:06:04,139 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-16 21:06:04,148 | INFO | src.validator | Product_ID check passed
+2026-10-16 21:06:04,158 | INFO | src.validator | Product_Name check passed
+2026-10-16 21:06:04,165 | INFO | src.validator | Category check passed
+2026-10-16 21:06:04,173 | INFO | src.validator | Supplier check passed
+2026-10-16 21:06:04,177 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-16 21:06:04,181 | INFO | src.validator | Reorder_Level check passed
+2026-10-16 21:06:04,187 | INFO | src.validator | Unit_Cost check passed
+2026-10-16 21:06:04,192 | INFO | src.validator | Unit_Price check passed
+2026-10-16 21:06:04,195 | INFO | src.validator | Price vs Cost check passed
+2026-10-16 21:06:04,199 | INFO | src.validator | Units_Sold check passed
+2026-10-16 21:06:04,204 | INFO | src.validator | Order_Date check passed
+2026-10-16 21:06:04,205 | INFO | src.validator | Validation finished: 2  invalid rows in total
+2026-10-16 21:08:18,627 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-16 21:08:18,644 | INFO | src.validator | Product_ID check passed
+2026-10-16 21:08:18,651 | INFO | src.validator | Product_Name check passed
+2026-10-16 21:08:18,657 | WARNING | src.validator | Category check failed: 1  invalid rows
+2026-10-16 21:08:18,663 | INFO | src.validator | Supplier check passed
+2026-10-16 21:08:18,667 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-16 21:08:18,674 | INFO | src.validator | Reorder_Level check passed
+2026-10-16 21:08:18,678 | WARNING | src.validator | Unit_Cost check failed: 1  invalid rows
+2026-10-16 21:08:18,681 | INFO | src.validator | Unit_Price check passed
+2026-10-16 21:08:18,686 | INFO | src.validator | Price vs Cost check passed
+2026-10-16 21:08:18,690 | INFO | src.validator | Units_Sold check passed
+2026-10-16 21:08:18,699 | INFO | src.validator | Order_Date check passed
+2026-10-16 21:08:18,700 | INFO | src.validator | Validation finished: 4  invalid rows in total
+2026-10-16 21:08:18,700 | INFO | src.cleaner | Cleaning started
+2026-10-16 21:08:18,721 | INFO | src.cleaner | Category: fixed 1 values
+2026-10-16 21:08:18,733 | INFO | src.cleaner | Unit_Cost: fixed 1 negative values
+2026-10-16 21:08:18,744 | INFO | src.cleaner | Cleaning finished
+2026-10-16 21:08:18,745 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-16 21:08:18,758 | INFO | src.validator | Product_ID check passed
+2026-10-16 21:08:18,764 | INFO | src.validator | Product_Name check passed
+2026-10-16 21:08:18,771 | INFO | src.validator | Category check passed
+2026-10-16 21:08:18,776 | INFO | src.validator | Supplier check passed
+2026-10-16 21:08:18,780 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-16 21:08:18,784 | INFO | src.validator | Reorder_Level check passed
+2026-10-16 21:08:18,787 | INFO | src.validator | Unit_Cost check passed
+2026-10-16 21:08:18,790 | INFO | src.validator | Unit_Price check passed
+2026-10-16 21:08:18,792 | INFO | src.validator | Price vs Cost check passed
+2026-10-16 21:08:18,794 | INFO | src.validator | Units_Sold check passed
+2026-10-16 21:08:18,796 | INFO | src.validator | Order_Date check passed
+2026-10-16 21:08:18,797 | INFO | src.validator | Validation finished: 2  invalid rows in total
+2026-10-16 21:08:18,809 | INFO | src.kpi | KPI | total_inventory_value = 19054.0
+2026-10-16 21:08:18,810 | INFO | src.kpi | KPI | total_potential_sales_value = 19054.0
+2026-10-16 21:08:18,810 | INFO | src.kpi | KPI | total_potential_gross_profit = 19054.0
+2026-10-16 21:09:06,425 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-16 21:09:06,431 | INFO | src.validator | Product_ID check passed
+2026-10-16 21:09:06,435 | INFO | src.validator | Product_Name check passed
+2026-10-16 21:09:06,439 | WARNING | src.validator | Category check failed: 1  invalid rows
+2026-10-16 21:09:06,443 | INFO | src.validator | Supplier check passed
+2026-10-16 21:09:06,446 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-16 21:09:06,450 | INFO | src.validator | Reorder_Level check passed
+2026-10-16 21:09:06,453 | WARNING | src.validator | Unit_Cost check failed: 1  invalid rows
+2026-10-16 21:09:06,457 | INFO | src.validator | Unit_Price check passed
+2026-10-16 21:09:06,460 | INFO | src.validator | Price vs Cost check passed
+2026-10-16 21:09:06,463 | INFO | src.validator | Units_Sold check passed
+2026-10-16 21:09:06,470 | INFO | src.validator | Order_Date check passed
+2026-10-16 21:09:06,471 | INFO | src.validator | Validation finished: 4  invalid rows in total
+2026-10-16 21:09:06,471 | INFO | src.cleaner | Cleaning started
+2026-10-16 21:09:06,476 | INFO | src.cleaner | Category: fixed 1 values
+2026-10-16 21:09:06,485 | INFO | src.cleaner | Unit_Cost: fixed 1 negative values
+2026-10-16 21:09:06,494 | INFO | src.cleaner | Cleaning finished
+2026-10-16 21:09:06,495 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-16 21:09:06,507 | INFO | src.validator | Product_ID check passed
+2026-10-16 21:09:06,513 | INFO | src.validator | Product_Name check passed
+2026-10-16 21:09:06,520 | INFO | src.validator | Category check passed
+2026-10-16 21:09:06,526 | INFO | src.validator | Supplier check passed
+2026-10-16 21:09:06,530 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-16 21:09:06,533 | INFO | src.validator | Reorder_Level check passed
+2026-10-16 21:09:06,538 | INFO | src.validator | Unit_Cost check passed
+2026-10-16 21:09:06,543 | INFO | src.validator | Unit_Price check passed
+2026-10-16 21:09:06,545 | INFO | src.validator | Price vs Cost check passed
+2026-10-16 21:09:06,551 | INFO | src.validator | Units_Sold check passed
+2026-10-16 21:09:06,559 | INFO | src.validator | Order_Date check passed
+2026-10-16 21:09:06,560 | INFO | src.validator | Validation finished: 2  invalid rows in total
+2026-10-16 21:09:06,580 | INFO | src.kpi | KPI | total_inventory_value = 19054.0
+2026-10-16 21:09:06,580 | INFO | src.kpi | KPI | total_potential_sales_value = 19054.0
+2026-10-16 21:09:06,581 | INFO | src.kpi | KPI | total_potential_gross_profit = 19054.0
+2026-10-16 21:13:12,844 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-16 21:13:12,850 | INFO | src.validator | Product_ID check passed
+2026-10-16 21:13:12,855 | INFO | src.validator | Product_Name check passed
+2026-10-16 21:13:12,860 | WARNING | src.validator | Category check failed: 1  invalid rows
+2026-10-16 21:13:12,866 | INFO | src.validator | Supplier check passed
+2026-10-16 21:13:12,869 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-16 21:13:12,872 | INFO | src.validator | Reorder_Level check passed
+2026-10-16 21:13:12,875 | WARNING | src.validator | Unit_Cost check failed: 1  invalid rows
+2026-10-16 21:13:12,879 | INFO | src.validator | Unit_Price check passed
+2026-10-16 21:13:12,881 | INFO | src.validator | Price vs Cost check passed
+2026-10-16 21:13:12,883 | INFO | src.validator | Units_Sold check passed
+2026-10-16 21:13:12,888 | INFO | src.validator | Order_Date check passed
+2026-10-16 21:13:12,889 | INFO | src.validator | Validation finished: 4  invalid rows in total
+2026-10-16 21:13:12,889 | INFO | src.cleaner | Cleaning started
+2026-10-16 21:13:12,895 | INFO | src.cleaner | Category: fixed 1 values
+2026-10-16 21:13:12,901 | INFO | src.cleaner | Unit_Cost: fixed 1 negative values
+2026-10-16 21:13:12,907 | INFO | src.cleaner | Cleaning finished
+2026-10-16 21:13:12,908 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-16 21:13:12,914 | INFO | src.validator | Product_ID check passed
+2026-10-16 21:13:12,917 | INFO | src.validator | Product_Name check passed
+2026-10-16 21:13:12,922 | INFO | src.validator | Category check passed
+2026-10-16 21:13:12,927 | INFO | src.validator | Supplier check passed
+2026-10-16 21:13:12,930 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-16 21:13:12,932 | INFO | src.validator | Reorder_Level check passed
+2026-10-16 21:13:12,935 | INFO | src.validator | Unit_Cost check passed
+2026-10-16 21:13:12,937 | INFO | src.validator | Unit_Price check passed
+2026-10-16 21:13:12,940 | INFO | src.validator | Price vs Cost check passed
+2026-10-16 21:13:12,945 | INFO | src.validator | Units_Sold check passed
+2026-10-16 21:13:12,948 | INFO | src.validator | Order_Date check passed
+2026-10-16 21:13:12,949 | INFO | src.validator | Validation finished: 2  invalid rows in total
+2026-10-16 21:13:12,961 | INFO | src.kpi | KPI | total_inventory_value = 19054.0
+2026-10-16 21:13:12,962 | INFO | src.kpi | KPI | total_potential_sales_value = 39550.0
+2026-10-16 21:13:12,963 | INFO | src.kpi | KPI | total_potential_gross_profit = 20496.0
+2026-10-17 00:36:34,985 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-17 00:36:35,001 | INFO | src.validator | Product_ID check passed
+2026-10-17 00:36:35,010 | INFO | src.validator | Product_Name check passed
+2026-10-17 00:36:35,020 | WARNING | src.validator | Category check failed: 1  invalid rows
+2026-10-17 00:36:35,029 | INFO | src.validator | Supplier check passed
+2026-10-17 00:36:35,036 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-17 00:36:35,044 | INFO | src.validator | Reorder_Level check passed
+2026-10-17 00:36:35,050 | WARNING | src.validator | Unit_Cost check failed: 1  invalid rows
+2026-10-17 00:36:35,053 | INFO | src.validator | Unit_Price check passed
+2026-10-17 00:36:35,058 | INFO | src.validator | Price vs Cost check passed
+2026-10-17 00:36:35,065 | INFO | src.validator | Units_Sold check passed
+2026-10-17 00:36:35,074 | INFO | src.validator | Order_Date check passed
+2026-10-17 00:36:35,075 | INFO | src.validator | Validation finished: 4  invalid rows in total
+2026-10-17 00:36:35,077 | INFO | src.cleaner | Cleaning started
+2026-10-17 00:36:35,087 | INFO | src.cleaner | Category: fixed 1 values
+2026-10-17 00:36:35,098 | INFO | src.cleaner | Unit_Cost: fixed 1 negative values
+2026-10-17 00:36:35,108 | INFO | src.cleaner | Cleaning finished
+2026-10-17 00:36:35,109 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-17 00:36:35,121 | INFO | src.validator | Product_ID check passed
+2026-10-17 00:36:35,129 | INFO | src.validator | Product_Name check passed
+2026-10-17 00:36:35,138 | INFO | src.validator | Category check passed
+2026-10-17 00:36:35,143 | INFO | src.validator | Supplier check passed
+2026-10-17 00:36:35,148 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-17 00:36:35,153 | INFO | src.validator | Reorder_Level check passed
+2026-10-17 00:36:35,159 | INFO | src.validator | Unit_Cost check passed
+2026-10-17 00:36:35,167 | INFO | src.validator | Unit_Price check passed
+2026-10-17 00:36:35,170 | INFO | src.validator | Price vs Cost check passed
+2026-10-17 00:36:35,174 | INFO | src.validator | Units_Sold check passed
+2026-10-17 00:36:35,181 | INFO | src.validator | Order_Date check passed
+2026-10-17 00:36:35,183 | INFO | src.validator | Validation finished: 2  invalid rows in total
+2026-10-17 00:36:35,203 | INFO | src.kpi | KPI | total_inventory_value = 19054.0
+2026-10-17 00:36:35,204 | INFO | src.kpi | KPI | total_potential_sales_value = 39550.0
+2026-10-17 00:36:35,205 | INFO | src.kpi | KPI | total_potential_gross_profit = 20496.0
+2026-10-17 00:36:35,239 | INFO | src.analyzer | Product summary created: 16 products
+2026-10-17 08:04:46,372 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-17 08:04:46,383 | INFO | src.validator | Product_ID check passed
+2026-10-17 08:04:46,388 | INFO | src.validator | Product_Name check passed
+2026-10-17 08:04:46,391 | WARNING | src.validator | Category check failed: 1  invalid rows
+2026-10-17 08:04:46,395 | INFO | src.validator | Supplier check passed
+2026-10-17 08:04:46,398 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-17 08:04:46,403 | INFO | src.validator | Reorder_Level check passed
+2026-10-17 08:04:46,410 | WARNING | src.validator | Unit_Cost check failed: 1  invalid rows
+2026-10-17 08:04:46,413 | INFO | src.validator | Unit_Price check passed
+2026-10-17 08:04:46,415 | INFO | src.validator | Price vs Cost check passed
+2026-10-17 08:04:46,417 | INFO | src.validator | Units_Sold check passed
+2026-10-17 08:04:46,421 | INFO | src.validator | Order_Date check passed
+2026-10-17 08:04:46,422 | INFO | src.validator | Validation finished: 4  invalid rows in total
+2026-10-17 08:04:46,422 | INFO | src.cleaner | Cleaning started
+2026-10-17 08:04:46,426 | INFO | src.cleaner | Category: fixed 1 values
+2026-10-17 08:04:46,432 | INFO | src.cleaner | Unit_Cost: fixed 1 negative values
+2026-10-17 08:04:46,441 | INFO | src.cleaner | Cleaning finished
+2026-10-17 08:04:46,442 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-17 08:04:46,449 | INFO | src.validator | Product_ID check passed
+2026-10-17 08:04:46,456 | INFO | src.validator | Product_Name check passed
+2026-10-17 08:04:46,462 | INFO | src.validator | Category check passed
+2026-10-17 08:04:46,469 | INFO | src.validator | Supplier check passed
+2026-10-17 08:04:46,474 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-17 08:04:46,478 | INFO | src.validator | Reorder_Level check passed
+2026-10-17 08:04:46,483 | INFO | src.validator | Unit_Cost check passed
+2026-10-17 08:04:46,491 | INFO | src.validator | Unit_Price check passed
+2026-10-17 08:04:46,494 | INFO | src.validator | Price vs Cost check passed
+2026-10-17 08:04:46,497 | INFO | src.validator | Units_Sold check passed
+2026-10-17 08:04:46,501 | INFO | src.validator | Order_Date check passed
+2026-10-17 08:04:46,502 | INFO | src.validator | Validation finished: 2  invalid rows in total
+2026-10-17 08:04:46,521 | INFO | src.kpi | KPI | total_inventory_value = 19054.0
+2026-10-17 08:04:46,522 | INFO | src.kpi | KPI | total_potential_sales_value = 39550.0
+2026-10-17 08:04:46,523 | INFO | src.kpi | KPI | total_potential_gross_profit = 20496.0
+2026-10-17 08:04:46,551 | INFO | src.analyzer | Product summary created: 16 products
+2026-10-17 08:06:46,997 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-17 08:06:47,011 | INFO | src.validator | Product_ID check passed
+2026-10-17 08:06:47,017 | INFO | src.validator | Product_Name check passed
+2026-10-17 08:06:47,022 | WARNING | src.validator | Category check failed: 1  invalid rows
+2026-10-17 08:06:47,027 | INFO | src.validator | Supplier check passed
+2026-10-17 08:06:47,030 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-17 08:06:47,036 | INFO | src.validator | Reorder_Level check passed
+2026-10-17 08:06:47,039 | WARNING | src.validator | Unit_Cost check failed: 1  invalid rows
+2026-10-17 08:06:47,041 | INFO | src.validator | Unit_Price check passed
+2026-10-17 08:06:47,044 | INFO | src.validator | Price vs Cost check passed
+2026-10-17 08:06:47,046 | INFO | src.validator | Units_Sold check passed
+2026-10-17 08:06:47,055 | INFO | src.validator | Order_Date check passed
+2026-10-17 08:06:47,056 | INFO | src.validator | Validation finished: 4  invalid rows in total
+2026-10-17 08:06:47,057 | INFO | src.cleaner | Cleaning started
+2026-10-17 08:06:47,064 | INFO | src.cleaner | Category: fixed 1 values
+2026-10-17 08:06:47,075 | INFO | src.cleaner | Unit_Cost: fixed 1 negative values
+2026-10-17 08:06:47,085 | INFO | src.cleaner | Cleaning finished
+2026-10-17 08:06:47,086 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-17 08:06:47,095 | INFO | src.validator | Product_ID check passed
+2026-10-17 08:06:47,105 | INFO | src.validator | Product_Name check passed
+2026-10-17 08:06:47,110 | INFO | src.validator | Category check passed
+2026-10-17 08:06:47,117 | INFO | src.validator | Supplier check passed
+2026-10-17 08:06:47,120 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-17 08:06:47,123 | INFO | src.validator | Reorder_Level check passed
+2026-10-17 08:06:47,126 | INFO | src.validator | Unit_Cost check passed
+2026-10-17 08:06:47,131 | INFO | src.validator | Unit_Price check passed
+2026-10-17 08:06:47,134 | INFO | src.validator | Price vs Cost check passed
+2026-10-17 08:06:47,137 | INFO | src.validator | Units_Sold check passed
+2026-10-17 08:06:47,141 | INFO | src.validator | Order_Date check passed
+2026-10-17 08:06:47,142 | INFO | src.validator | Validation finished: 2  invalid rows in total
+2026-10-17 08:06:47,158 | INFO | src.kpi | KPI | total_inventory_value = 19054.0
+2026-10-17 08:06:47,159 | INFO | src.kpi | KPI | total_potential_sales_value = 39550.0
+2026-10-17 08:06:47,160 | INFO | src.kpi | KPI | total_potential_gross_profit = 20496.0
+2026-10-17 08:06:47,189 | INFO | src.analyzer | Product summary created: 16 products
+2026-10-17 08:34:47,065 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-17 08:34:47,080 | INFO | src.validator | Product_ID check passed
+2026-10-17 08:34:47,084 | INFO | src.validator | Product_Name check passed
+2026-10-17 08:34:47,088 | WARNING | src.validator | Category check failed: 1  invalid rows
+2026-10-17 08:34:47,092 | INFO | src.validator | Supplier check passed
+2026-10-17 08:34:47,094 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-17 08:34:47,100 | INFO | src.validator | Reorder_Level check passed
+2026-10-17 08:34:47,103 | WARNING | src.validator | Unit_Cost check failed: 1  invalid rows
+2026-10-17 08:34:47,106 | INFO | src.validator | Unit_Price check passed
+2026-10-17 08:34:47,109 | INFO | src.validator | Price vs Cost check passed
+2026-10-17 08:34:47,112 | INFO | src.validator | Units_Sold check passed
+2026-10-17 08:34:47,117 | INFO | src.validator | Order_Date check passed
+2026-10-17 08:34:47,118 | INFO | src.validator | Validation finished: 4  invalid rows in total
+2026-10-17 08:34:47,118 | INFO | src.cleaner | Cleaning started
+2026-10-17 08:34:47,125 | INFO | src.cleaner | Category: fixed 1 values
+2026-10-17 08:34:47,137 | INFO | src.cleaner | Unit_Cost: fixed 1 negative values
+2026-10-17 08:34:47,147 | INFO | src.cleaner | Cleaning finished
+2026-10-17 08:34:47,148 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-17 08:34:47,155 | INFO | src.validator | Product_ID check passed
+2026-10-17 08:34:47,161 | INFO | src.validator | Product_Name check passed
+2026-10-17 08:34:47,165 | INFO | src.validator | Category check passed
+2026-10-17 08:34:47,172 | INFO | src.validator | Supplier check passed
+2026-10-17 08:34:47,176 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-17 08:34:47,179 | INFO | src.validator | Reorder_Level check passed
+2026-10-17 08:34:47,183 | INFO | src.validator | Unit_Cost check passed
+2026-10-17 08:34:47,188 | INFO | src.validator | Unit_Price check passed
+2026-10-17 08:34:47,193 | INFO | src.validator | Price vs Cost check passed
+2026-10-17 08:34:47,197 | INFO | src.validator | Units_Sold check passed
+2026-10-17 08:34:47,202 | INFO | src.validator | Order_Date check passed
+2026-10-17 08:34:47,203 | INFO | src.validator | Validation finished: 2  invalid rows in total
+2026-10-17 08:34:47,225 | INFO | src.kpi | KPI | total_inventory_value = 19054.0
+2026-10-17 08:34:47,226 | INFO | src.kpi | KPI | total_potential_sales_value = 39550.0
+2026-10-17 08:34:47,227 | INFO | src.kpi | KPI | total_potential_gross_profit = 20496.0
+2026-10-17 08:34:47,261 | INFO | src.analyzer | Product summary created: 16 products
+2026-10-17 08:37:53,027 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-17 08:37:53,038 | INFO | src.validator | Product_ID check passed
+2026-10-17 08:37:53,042 | INFO | src.validator | Product_Name check passed
+2026-10-17 08:37:53,046 | WARNING | src.validator | Category check failed: 1  invalid rows
+2026-10-17 08:37:53,049 | INFO | src.validator | Supplier check passed
+2026-10-17 08:37:53,052 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-17 08:37:53,057 | INFO | src.validator | Reorder_Level check passed
+2026-10-17 08:37:53,060 | WARNING | src.validator | Unit_Cost check failed: 1  invalid rows
+2026-10-17 08:37:53,062 | INFO | src.validator | Unit_Price check passed
+2026-10-17 08:37:53,064 | INFO | src.validator | Price vs Cost check passed
+2026-10-17 08:37:53,067 | INFO | src.validator | Units_Sold check passed
+2026-10-17 08:37:53,073 | INFO | src.validator | Order_Date check passed
+2026-10-17 08:37:53,073 | INFO | src.validator | Validation finished: 4  invalid rows in total
+2026-10-17 08:37:53,074 | INFO | src.cleaner | Cleaning started
+2026-10-17 08:37:53,080 | INFO | src.cleaner | Category: fixed 1 values
+2026-10-17 08:37:53,090 | INFO | src.cleaner | Unit_Cost: fixed 1 negative values
+2026-10-17 08:37:53,100 | INFO | src.cleaner | Cleaning finished
+2026-10-17 08:37:53,101 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-17 08:37:53,109 | INFO | src.validator | Product_ID check passed
+2026-10-17 08:37:53,117 | INFO | src.validator | Product_Name check passed
+2026-10-17 08:37:53,123 | INFO | src.validator | Category check passed
+2026-10-17 08:37:53,132 | INFO | src.validator | Supplier check passed
+2026-10-17 08:37:53,136 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-17 08:37:53,140 | INFO | src.validator | Reorder_Level check passed
+2026-10-17 08:37:53,146 | INFO | src.validator | Unit_Cost check passed
+2026-10-17 08:37:53,151 | INFO | src.validator | Unit_Price check passed
+2026-10-17 08:37:53,154 | INFO | src.validator | Price vs Cost check passed
+2026-10-17 08:37:53,158 | INFO | src.validator | Units_Sold check passed
+2026-10-17 08:37:53,162 | INFO | src.validator | Order_Date check passed
+2026-10-17 08:37:53,163 | INFO | src.validator | Validation finished: 2  invalid rows in total
+2026-10-17 08:37:53,183 | INFO | src.kpi | KPI | total_inventory_value = 19054.0
+2026-10-17 08:37:53,184 | INFO | src.kpi | KPI | total_potential_sales_value = 39550.0
+2026-10-17 08:37:53,184 | INFO | src.kpi | KPI | total_potential_gross_profit = 20496.0
+2026-10-17 08:37:53,218 | INFO | src.analyzer | Product summary created: 16 products
+2026-10-17 09:00:16,591 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-17 09:00:16,601 | INFO | src.validator | Product_ID check passed
+2026-10-17 09:00:16,606 | INFO | src.validator | Product_Name check passed
+2026-10-17 09:00:16,610 | WARNING | src.validator | Category check failed: 1  invalid rows
+2026-10-17 09:00:16,613 | INFO | src.validator | Supplier check passed
+2026-10-17 09:00:16,616 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-17 09:00:16,620 | INFO | src.validator | Reorder_Level check passed
+2026-10-17 09:00:16,623 | WARNING | src.validator | Unit_Cost check failed: 1  invalid rows
+2026-10-17 09:00:16,625 | INFO | src.validator | Unit_Price check passed
+2026-10-17 09:00:16,627 | INFO | src.validator | Price vs Cost check passed
+2026-10-17 09:00:16,629 | INFO | src.validator | Units_Sold check passed
+2026-10-17 09:00:16,635 | INFO | src.validator | Order_Date check passed
+2026-10-17 09:00:16,636 | INFO | src.validator | Validation finished: 4  invalid rows in total
+2026-10-17 09:00:16,636 | INFO | src.cleaner | Cleaning started
+2026-10-17 09:00:16,641 | INFO | src.cleaner | Category: fixed 1 values
+2026-10-17 09:00:16,648 | INFO | src.cleaner | Unit_Cost: fixed 1 negative values
+2026-10-17 09:00:16,653 | INFO | src.cleaner | Cleaning finished
+2026-10-17 09:00:16,654 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-17 09:00:16,658 | INFO | src.validator | Product_ID check passed
+2026-10-17 09:00:16,661 | INFO | src.validator | Product_Name check passed
+2026-10-17 09:00:16,665 | INFO | src.validator | Category check passed
+2026-10-17 09:00:16,669 | INFO | src.validator | Supplier check passed
+2026-10-17 09:00:16,672 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-17 09:00:16,675 | INFO | src.validator | Reorder_Level check passed
+2026-10-17 09:00:16,679 | INFO | src.validator | Unit_Cost check passed
+2026-10-17 09:00:16,683 | INFO | src.validator | Unit_Price check passed
+2026-10-17 09:00:16,685 | INFO | src.validator | Price vs Cost check passed
+2026-10-17 09:00:16,688 | INFO | src.validator | Units_Sold check passed
+2026-10-17 09:00:16,691 | INFO | src.validator | Order_Date check passed
+2026-10-17 09:00:16,692 | INFO | src.validator | Validation finished: 2  invalid rows in total
+2026-10-17 09:00:16,704 | INFO | src.kpi | KPI | total_inventory_value = 19054.0
+2026-10-17 09:00:16,705 | INFO | src.kpi | KPI | total_potential_sales_value = 39550.0
+2026-10-17 09:00:16,705 | INFO | src.kpi | KPI | total_potential_gross_profit = 20496.0
+2026-10-17 09:00:16,730 | INFO | src.analyzer | Product summary created: 16 products
+2026-10-17 09:08:35,757 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-17 09:08:35,770 | INFO | src.validator | Product_ID check passed
+2026-10-17 09:08:35,776 | INFO | src.validator | Product_Name check passed
+2026-10-17 09:08:35,781 | WARNING | src.validator | Category check failed: 1  invalid rows
+2026-10-17 09:08:35,787 | INFO | src.validator | Supplier check passed
+2026-10-17 09:08:35,792 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-17 09:08:35,799 | INFO | src.validator | Reorder_Level check passed
+2026-10-17 09:08:35,804 | WARNING | src.validator | Unit_Cost check failed: 1  invalid rows
+2026-10-17 09:08:35,808 | INFO | src.validator | Unit_Price check passed
+2026-10-17 09:08:35,811 | INFO | src.validator | Price vs Cost check passed
+2026-10-17 09:08:35,815 | INFO | src.validator | Units_Sold check passed
+2026-10-17 09:08:35,823 | INFO | src.validator | Order_Date check passed
+2026-10-17 09:08:35,824 | INFO | src.validator | Validation finished: 4  invalid rows in total
+2026-10-17 09:08:35,824 | INFO | src.cleaner | Cleaning started
+2026-10-17 09:08:35,830 | INFO | src.cleaner | Category: fixed 1 values
+2026-10-17 09:08:35,839 | INFO | src.cleaner | Unit_Cost: fixed 1 negative values
+2026-10-17 09:08:35,847 | INFO | src.cleaner | Cleaning finished
+2026-10-17 09:08:35,848 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-17 09:08:35,858 | INFO | src.validator | Product_ID check passed
+2026-10-17 09:08:35,864 | INFO | src.validator | Product_Name check passed
+2026-10-17 09:08:35,872 | INFO | src.validator | Category check passed
+2026-10-17 09:08:35,881 | INFO | src.validator | Supplier check passed
+2026-10-17 09:08:35,887 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-17 09:08:35,894 | INFO | src.validator | Reorder_Level check passed
+2026-10-17 09:08:35,899 | INFO | src.validator | Unit_Cost check passed
+2026-10-17 09:08:35,905 | INFO | src.validator | Unit_Price check passed
+2026-10-17 09:08:35,909 | INFO | src.validator | Price vs Cost check passed
+2026-10-17 09:08:35,914 | INFO | src.validator | Units_Sold check passed
+2026-10-17 09:08:35,917 | INFO | src.validator | Order_Date check passed
+2026-10-17 09:08:35,919 | INFO | src.validator | Validation finished: 2  invalid rows in total
+2026-10-17 09:08:35,937 | INFO | src.kpi | KPI | total_inventory_value = 19054.0
+2026-10-17 09:08:35,938 | INFO | src.kpi | KPI | total_potential_sales_value = 39550.0
+2026-10-17 09:08:35,939 | INFO | src.kpi | KPI | total_potential_gross_profit = 20496.0
+2026-10-17 09:08:35,970 | INFO | src.analyzer | Product summary created: 16 products
+2026-10-17 11:38:07,104 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-17 11:38:07,128 | INFO | src.validator | Product_ID check passed
+2026-10-17 11:38:07,144 | INFO | src.validator | Product_Name check passed
+2026-10-17 11:38:07,163 | WARNING | src.validator | Category check failed: 1  invalid rows
+2026-10-17 11:38:07,171 | INFO | src.validator | Supplier check passed
+2026-10-17 11:38:07,176 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-17 11:38:07,191 | INFO | src.validator | Reorder_Level check passed
+2026-10-17 11:38:07,196 | WARNING | src.validator | Unit_Cost check failed: 1  invalid rows
+2026-10-17 11:38:07,202 | INFO | src.validator | Unit_Price check passed
+2026-10-17 11:38:07,209 | INFO | src.validator | Price vs Cost check passed
+2026-10-17 11:38:07,221 | INFO | src.validator | Units_Sold check passed
+2026-10-17 11:38:07,235 | INFO | src.validator | Order_Date check passed
+2026-10-17 11:38:07,237 | INFO | src.validator | Validation finished: 4  invalid rows in total
+2026-10-17 11:38:07,238 | INFO | src.cleaner | Cleaning started
+2026-10-17 11:38:07,249 | INFO | src.cleaner | Category: fixed 1 values
+2026-10-17 11:38:07,263 | INFO | src.cleaner | Unit_Cost: fixed 1 negative values
+2026-10-17 11:38:07,277 | INFO | src.cleaner | Cleaning finished
+2026-10-17 11:38:07,280 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-17 11:38:07,291 | INFO | src.validator | Product_ID check passed
+2026-10-17 11:38:07,299 | INFO | src.validator | Product_Name check passed
+2026-10-17 11:38:07,307 | INFO | src.validator | Category check passed
+2026-10-17 11:38:07,315 | INFO | src.validator | Supplier check passed
+2026-10-17 11:38:07,325 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-17 11:38:07,330 | INFO | src.validator | Reorder_Level check passed
+2026-10-17 11:38:07,334 | INFO | src.validator | Unit_Cost check passed
+2026-10-17 11:38:07,338 | INFO | src.validator | Unit_Price check passed
+2026-10-17 11:38:07,343 | INFO | src.validator | Price vs Cost check passed
+2026-10-17 11:38:07,348 | INFO | src.validator | Units_Sold check passed
+2026-10-17 11:38:07,354 | INFO | src.validator | Order_Date check passed
+2026-10-17 11:38:07,355 | INFO | src.validator | Validation finished: 2  invalid rows in total
+2026-10-17 11:38:07,374 | INFO | src.kpi | KPI | total_inventory_value = 19054.0
+2026-10-17 11:38:07,374 | INFO | src.kpi | KPI | total_potential_sales_value = 39550.0
+2026-10-17 11:38:07,375 | INFO | src.kpi | KPI | total_potential_gross_profit = 20496.0
+2026-10-17 11:38:07,425 | INFO | src.analyzer | Product summary created: 16 products
+2026-10-17 12:28:16,665 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-17 12:28:16,678 | INFO | src.validator | Product_ID check passed
+2026-10-17 12:28:16,682 | INFO | src.validator | Product_Name check passed
+2026-10-17 12:28:16,688 | WARNING | src.validator | Category check failed: 1  invalid rows
+2026-10-17 12:28:16,693 | INFO | src.validator | Supplier check passed
+2026-10-17 12:28:16,696 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-17 12:28:16,701 | INFO | src.validator | Reorder_Level check passed
+2026-10-17 12:28:16,704 | WARNING | src.validator | Unit_Cost check failed: 1  invalid rows
+2026-10-17 12:28:16,708 | INFO | src.validator | Unit_Price check passed
+2026-10-17 12:28:16,711 | INFO | src.validator | Price vs Cost check passed
+2026-10-17 12:28:16,714 | INFO | src.validator | Units_Sold check passed
+2026-10-17 12:28:16,720 | INFO | src.validator | Order_Date check passed
+2026-10-17 12:28:16,720 | INFO | src.validator | Validation finished: 4  invalid rows in total
+2026-10-17 12:28:16,721 | INFO | src.cleaner | Cleaning started
+2026-10-17 12:28:16,728 | INFO | src.cleaner | Category: fixed 1 values
+2026-10-17 12:28:16,735 | INFO | src.cleaner | Unit_Cost: fixed 1 negative values
+2026-10-17 12:28:16,742 | INFO | src.cleaner | Cleaning finished
+2026-10-17 12:28:16,743 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-17 12:28:16,748 | INFO | src.validator | Product_ID check passed
+2026-10-17 12:28:16,752 | INFO | src.validator | Product_Name check passed
+2026-10-17 12:28:16,758 | INFO | src.validator | Category check passed
+2026-10-17 12:28:16,763 | INFO | src.validator | Supplier check passed
+2026-10-17 12:28:16,766 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-17 12:28:16,769 | INFO | src.validator | Reorder_Level check passed
+2026-10-17 12:28:16,773 | INFO | src.validator | Unit_Cost check passed
+2026-10-17 12:28:16,777 | INFO | src.validator | Unit_Price check passed
+2026-10-17 12:28:16,780 | INFO | src.validator | Price vs Cost check passed
+2026-10-17 12:28:16,783 | INFO | src.validator | Units_Sold check passed
+2026-10-17 12:28:16,786 | INFO | src.validator | Order_Date check passed
+2026-10-17 12:28:16,787 | INFO | src.validator | Validation finished: 2  invalid rows in total
+2026-10-17 12:28:16,799 | INFO | src.kpi | KPI | total_inventory_value = 19054.0
+2026-10-17 12:28:16,800 | INFO | src.kpi | KPI | total_potential_sales_value = 39550.0
+2026-10-17 12:28:16,800 | INFO | src.kpi | KPI | total_potential_gross_profit = 20496.0
+2026-10-17 12:28:16,830 | INFO | src.analyzer | Product summary created: 16 products
+2026-10-17 17:09:20,338 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-17 17:09:20,349 | INFO | src.validator | Product_ID check passed
+2026-10-17 17:09:20,353 | INFO | src.validator | Product_Name check passed
+2026-10-17 17:09:20,357 | WARNING | src.validator | Category check failed: 1  invalid rows
+2026-10-17 17:09:20,361 | INFO | src.validator | Supplier check passed
+2026-10-17 17:09:20,365 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-17 17:09:20,370 | INFO | src.validator | Reorder_Level check passed
+2026-10-17 17:09:20,373 | WARNING | src.validator | Unit_Cost check failed: 1  invalid rows
+2026-10-17 17:09:20,380 | INFO | src.validator | Unit_Price check passed
+2026-10-17 17:09:20,383 | INFO | src.validator | Price vs Cost check passed
+2026-10-17 17:09:20,385 | INFO | src.validator | Units_Sold check passed
+2026-10-17 17:09:20,390 | INFO | src.validator | Order_Date check passed
+2026-10-17 17:09:20,390 | INFO | src.validator | Validation finished: 4  invalid rows in total
+2026-10-17 17:09:20,391 | INFO | src.cleaner | Cleaning started
+2026-10-17 17:09:20,397 | INFO | src.cleaner | Category: fixed 1 values
+2026-10-17 17:09:20,404 | INFO | src.cleaner | Unit_Cost: fixed 1 negative values
+2026-10-17 17:09:20,410 | INFO | src.cleaner | Cleaning finished
+2026-10-17 17:09:20,411 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-17 17:09:20,417 | INFO | src.validator | Product_ID check passed
+2026-10-17 17:09:20,421 | INFO | src.validator | Product_Name check passed
+2026-10-17 17:09:20,427 | INFO | src.validator | Category check passed
+2026-10-17 17:09:20,432 | INFO | src.validator | Supplier check passed
+2026-10-17 17:09:20,435 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-17 17:09:20,437 | INFO | src.validator | Reorder_Level check passed
+2026-10-17 17:09:20,439 | INFO | src.validator | Unit_Cost check passed
+2026-10-17 17:09:20,442 | INFO | src.validator | Unit_Price check passed
+2026-10-17 17:09:20,445 | INFO | src.validator | Price vs Cost check passed
+2026-10-17 17:09:20,449 | INFO | src.validator | Units_Sold check passed
+2026-10-17 17:09:20,451 | INFO | src.validator | Order_Date check passed
+2026-10-17 17:09:20,452 | INFO | src.validator | Validation finished: 2  invalid rows in total
+2026-10-17 17:09:20,462 | INFO | src.kpi | KPI | total_inventory_value = 19054.0
+2026-10-17 17:09:20,463 | INFO | src.kpi | KPI | total_potential_sales_value = 39550.0
+2026-10-17 17:09:20,464 | INFO | src.kpi | KPI | total_potential_gross_profit = 20496.0
+2026-10-17 17:09:20,490 | INFO | src.analyzer | Product summary created: 16 products
+2026-10-17 17:09:20,506 | INFO | src.analyzer | Stock status summary created
+2026-10-17 19:41:06,783 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-17 19:41:06,794 | INFO | src.validator | Product_ID check passed
+2026-10-17 19:41:06,797 | INFO | src.validator | Product_Name check passed
+2026-10-17 19:41:06,801 | WARNING | src.validator | Category check failed: 1  invalid rows
+2026-10-17 19:41:06,804 | INFO | src.validator | Supplier check passed
+2026-10-17 19:41:06,807 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-17 19:41:06,811 | INFO | src.validator | Reorder_Level check passed
+2026-10-17 19:41:06,815 | WARNING | src.validator | Unit_Cost check failed: 1  invalid rows
+2026-10-17 19:41:06,818 | INFO | src.validator | Unit_Price check passed
+2026-10-17 19:41:06,820 | INFO | src.validator | Price vs Cost check passed
+2026-10-17 19:41:06,823 | INFO | src.validator | Units_Sold check passed
+2026-10-17 19:41:06,828 | INFO | src.validator | Order_Date check passed
+2026-10-17 19:41:06,828 | INFO | src.validator | Validation finished: 4  invalid rows in total
+2026-10-17 19:41:06,829 | INFO | src.cleaner | Cleaning started
+2026-10-17 19:41:06,833 | INFO | src.cleaner | Category: fixed 1 values
+2026-10-17 19:41:06,838 | INFO | src.cleaner | Unit_Cost: fixed 1 negative values
+2026-10-17 19:41:06,844 | INFO | src.cleaner | Cleaning finished
+2026-10-17 19:41:06,845 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-17 19:41:06,852 | INFO | src.validator | Product_ID check passed
+2026-10-17 19:41:06,856 | INFO | src.validator | Product_Name check passed
+2026-10-17 19:41:06,860 | INFO | src.validator | Category check passed
+2026-10-17 19:41:06,865 | INFO | src.validator | Supplier check passed
+2026-10-17 19:41:06,868 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-17 19:41:06,871 | INFO | src.validator | Reorder_Level check passed
+2026-10-17 19:41:06,874 | INFO | src.validator | Unit_Cost check passed
+2026-10-17 19:41:06,878 | INFO | src.validator | Unit_Price check passed
+2026-10-17 19:41:06,881 | INFO | src.validator | Price vs Cost check passed
+2026-10-17 19:41:06,885 | INFO | src.validator | Units_Sold check passed
+2026-10-17 19:41:06,890 | INFO | src.validator | Order_Date check passed
+2026-10-17 19:41:06,890 | INFO | src.validator | Validation finished: 2  invalid rows in total
+2026-10-17 19:41:06,906 | INFO | src.kpi | KPI | total_inventory_value = 19054.0
+2026-10-17 19:41:06,907 | INFO | src.kpi | KPI | total_potential_sales_value = 39550.0
+2026-10-17 19:41:06,907 | INFO | src.kpi | KPI | total_potential_gross_profit = 20496.0
+2026-10-17 19:41:06,946 | INFO | src.analyzer | Product summary created: 16 products
+2026-10-17 19:41:06,967 | INFO | src.analyzer | Stock status summary created
+2026-10-17 19:41:07,040 | INFO | src.analyzer | Product table created: 16 products
+2026-10-18 13:26:06,662 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-18 13:26:06,673 | INFO | src.validator | Product_ID check passed
+2026-10-18 13:26:06,678 | INFO | src.validator | Product_Name check passed
+2026-10-18 13:26:06,682 | WARNING | src.validator | Category check failed: 1  invalid rows
+2026-10-18 13:26:06,685 | INFO | src.validator | Supplier check passed
+2026-10-18 13:26:06,687 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-18 13:26:06,693 | INFO | src.validator | Reorder_Level check passed
+2026-10-18 13:26:06,696 | WARNING | src.validator | Unit_Cost check failed: 1  invalid rows
+2026-10-18 13:26:06,699 | INFO | src.validator | Unit_Price check passed
+2026-10-18 13:26:06,701 | INFO | src.validator | Price vs Cost check passed
+2026-10-18 13:26:06,704 | INFO | src.validator | Units_Sold check passed
+2026-10-18 13:26:06,709 | INFO | src.validator | Order_Date check passed
+2026-10-18 13:26:06,710 | INFO | src.validator | Validation finished: 4  invalid rows in total
+2026-10-18 13:26:06,710 | INFO | src.cleaner | Cleaning started
+2026-10-18 13:26:06,715 | INFO | src.cleaner | Category: fixed 1 values
+2026-10-18 13:26:06,727 | INFO | src.cleaner | Unit_Cost: fixed 1 negative values
+2026-10-18 13:26:06,738 | INFO | src.cleaner | Cleaning finished
+2026-10-18 13:26:06,740 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-18 13:26:06,747 | INFO | src.validator | Product_ID check passed
+2026-10-18 13:26:06,755 | INFO | src.validator | Product_Name check passed
+2026-10-18 13:26:06,759 | INFO | src.validator | Category check passed
+2026-10-18 13:26:06,763 | INFO | src.validator | Supplier check passed
+2026-10-18 13:26:06,767 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-18 13:26:06,771 | INFO | src.validator | Reorder_Level check passed
+2026-10-18 13:26:06,774 | INFO | src.validator | Unit_Cost check passed
+2026-10-18 13:26:06,777 | INFO | src.validator | Unit_Price check passed
+2026-10-18 13:26:06,781 | INFO | src.validator | Price vs Cost check passed
+2026-10-18 13:26:06,787 | INFO | src.validator | Units_Sold check passed
+2026-10-18 13:26:06,791 | INFO | src.validator | Order_Date check passed
+2026-10-18 13:26:06,792 | INFO | src.validator | Validation finished: 2  invalid rows in total
+2026-10-18 13:26:06,805 | INFO | src.kpi | KPI | total_inventory_value = 19054.0
+2026-10-18 13:26:06,806 | INFO | src.kpi | KPI | total_potential_sales_value = 39550.0
+2026-10-18 13:26:06,806 | INFO | src.kpi | KPI | total_potential_gross_profit = 20496.0
+2026-10-18 13:26:06,839 | INFO | src.analyzer | Product summary created: 16 products
+2026-10-18 13:26:06,861 | INFO | src.analyzer | Stock status summary created
+2026-10-18 13:26:06,935 | INFO | src.analyzer | Product table created: 16 products
+2026-10-18 13:26:06,938 | INFO | src.analyzer | Median Inventory_Turnover: 0.71
+2026-10-18 13:28:39,191 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-18 13:28:39,206 | INFO | src.validator | Product_ID check passed
+2026-10-18 13:28:39,212 | INFO | src.validator | Product_Name check passed
+2026-10-18 13:28:39,217 | WARNING | src.validator | Category check failed: 1  invalid rows
+2026-10-18 13:28:39,222 | INFO | src.validator | Supplier check passed
+2026-10-18 13:28:39,225 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-18 13:28:39,230 | INFO | src.validator | Reorder_Level check passed
+2026-10-18 13:28:39,234 | WARNING | src.validator | Unit_Cost check failed: 1  invalid rows
+2026-10-18 13:28:39,238 | INFO | src.validator | Unit_Price check passed
+2026-10-18 13:28:39,243 | INFO | src.validator | Price vs Cost check passed
+2026-10-18 13:28:39,248 | INFO | src.validator | Units_Sold check passed
+2026-10-18 13:28:39,256 | INFO | src.validator | Order_Date check passed
+2026-10-18 13:28:39,257 | INFO | src.validator | Validation finished: 4  invalid rows in total
+2026-10-18 13:28:39,258 | INFO | src.cleaner | Cleaning started
+2026-10-18 13:28:39,266 | INFO | src.cleaner | Category: fixed 1 values
+2026-10-18 13:28:39,277 | INFO | src.cleaner | Unit_Cost: fixed 1 negative values
+2026-10-18 13:28:39,284 | INFO | src.cleaner | Cleaning finished
+2026-10-18 13:28:39,285 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-18 13:28:39,294 | INFO | src.validator | Product_ID check passed
+2026-10-18 13:28:39,301 | INFO | src.validator | Product_Name check passed
+2026-10-18 13:28:39,309 | INFO | src.validator | Category check passed
+2026-10-18 13:28:39,318 | INFO | src.validator | Supplier check passed
+2026-10-18 13:28:39,321 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-18 13:28:39,325 | INFO | src.validator | Reorder_Level check passed
+2026-10-18 13:28:39,329 | INFO | src.validator | Unit_Cost check passed
+2026-10-18 13:28:39,332 | INFO | src.validator | Unit_Price check passed
+2026-10-18 13:28:39,334 | INFO | src.validator | Price vs Cost check passed
+2026-10-18 13:28:39,337 | INFO | src.validator | Units_Sold check passed
+2026-10-18 13:28:39,340 | INFO | src.validator | Order_Date check passed
+2026-10-18 13:28:39,341 | INFO | src.validator | Validation finished: 2  invalid rows in total
+2026-10-18 13:28:39,357 | INFO | src.kpi | KPI | total_inventory_value = 19054.0
+2026-10-18 13:28:39,358 | INFO | src.kpi | KPI | total_potential_sales_value = 39550.0
+2026-10-18 13:28:39,359 | INFO | src.kpi | KPI | total_potential_gross_profit = 20496.0
+2026-10-18 13:28:39,392 | INFO | src.analyzer | Product summary created: 16 products
+2026-10-18 13:28:39,413 | INFO | src.analyzer | Stock status summary created
+2026-10-18 13:28:39,477 | INFO | src.analyzer | Product table created: 16 products
+2026-10-18 13:28:39,481 | INFO | src.analyzer | Median Inventory_Turnover: 0.71
+2026-10-18 13:30:39,716 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-18 13:30:39,723 | INFO | src.validator | Product_ID check passed
+2026-10-18 13:30:39,726 | INFO | src.validator | Product_Name check passed
+2026-10-18 13:30:39,731 | WARNING | src.validator | Category check failed: 1  invalid rows
+2026-10-18 13:30:39,734 | INFO | src.validator | Supplier check passed
+2026-10-18 13:30:39,737 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-18 13:30:39,739 | INFO | src.validator | Reorder_Level check passed
+2026-10-18 13:30:39,741 | WARNING | src.validator | Unit_Cost check failed: 1  invalid rows
+2026-10-18 13:30:39,743 | INFO | src.validator | Unit_Price check passed
+2026-10-18 13:30:39,745 | INFO | src.validator | Price vs Cost check passed
+2026-10-18 13:30:39,748 | INFO | src.validator | Units_Sold check passed
+2026-10-18 13:30:39,754 | INFO | src.validator | Order_Date check passed
+2026-10-18 13:30:39,754 | INFO | src.validator | Validation finished: 4  invalid rows in total
+2026-10-18 13:30:39,755 | INFO | src.cleaner | Cleaning started
+2026-10-18 13:30:39,762 | INFO | src.cleaner | Category: fixed 1 values
+2026-10-18 13:30:39,771 | INFO | src.cleaner | Unit_Cost: fixed 1 negative values
+2026-10-18 13:30:39,777 | INFO | src.cleaner | Cleaning finished
+2026-10-18 13:30:39,778 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-18 13:30:39,782 | INFO | src.validator | Product_ID check passed
+2026-10-18 13:30:39,788 | INFO | src.validator | Product_Name check passed
+2026-10-18 13:30:39,793 | INFO | src.validator | Category check passed
+2026-10-18 13:30:39,797 | INFO | src.validator | Supplier check passed
+2026-10-18 13:30:39,800 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-18 13:30:39,805 | INFO | src.validator | Reorder_Level check passed
+2026-10-18 13:30:39,809 | INFO | src.validator | Unit_Cost check passed
+2026-10-18 13:30:39,813 | INFO | src.validator | Unit_Price check passed
+2026-10-18 13:30:39,815 | INFO | src.validator | Price vs Cost check passed
+2026-10-18 13:30:39,819 | INFO | src.validator | Units_Sold check passed
+2026-10-18 13:30:39,823 | INFO | src.validator | Order_Date check passed
+2026-10-18 13:30:39,825 | INFO | src.validator | Validation finished: 2  invalid rows in total
+2026-10-18 13:30:39,846 | INFO | src.kpi | KPI | total_inventory_value = 19054.0
+2026-10-18 13:30:39,847 | INFO | src.kpi | KPI | total_potential_sales_value = 39550.0
+2026-10-18 13:30:39,848 | INFO | src.kpi | KPI | total_potential_gross_profit = 20496.0
+2026-10-18 13:30:39,874 | INFO | src.analyzer | Product summary created: 16 products
+2026-10-18 13:30:39,895 | INFO | src.analyzer | Stock status summary created
+2026-10-18 13:30:39,972 | INFO | src.analyzer | Product table created: 16 products
+2026-10-18 13:30:39,975 | INFO | src.analyzer | Median Inventory_Turnover: 0.71
+2026-10-18 13:52:34,401 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-18 13:52:34,414 | INFO | src.validator | Product_ID check passed
+2026-10-18 13:52:34,418 | INFO | src.validator | Product_Name check passed
+2026-10-18 13:52:34,425 | WARNING | src.validator | Category check failed: 1  invalid rows
+2026-10-18 13:52:34,430 | INFO | src.validator | Supplier check passed
+2026-10-18 13:52:34,434 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-18 13:52:34,439 | INFO | src.validator | Reorder_Level check passed
+2026-10-18 13:52:34,442 | WARNING | src.validator | Unit_Cost check failed: 1  invalid rows
+2026-10-18 13:52:34,445 | INFO | src.validator | Unit_Price check passed
+2026-10-18 13:52:34,447 | INFO | src.validator | Price vs Cost check passed
+2026-10-18 13:52:34,449 | INFO | src.validator | Units_Sold check passed
+2026-10-18 13:52:34,454 | INFO | src.validator | Order_Date check passed
+2026-10-18 13:52:34,455 | INFO | src.validator | Validation finished: 4  invalid rows in total
+2026-10-18 13:52:34,455 | INFO | src.cleaner | Cleaning started
+2026-10-18 13:52:34,459 | INFO | src.cleaner | Category: fixed 1 values
+2026-10-18 13:52:34,468 | INFO | src.cleaner | Unit_Cost: fixed 1 negative values
+2026-10-18 13:52:34,474 | INFO | src.cleaner | Cleaning finished
+2026-10-18 13:52:34,475 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-18 13:52:34,482 | INFO | src.validator | Product_ID check passed
+2026-10-18 13:52:34,486 | INFO | src.validator | Product_Name check passed
+2026-10-18 13:52:34,491 | INFO | src.validator | Category check passed
+2026-10-18 13:52:34,497 | INFO | src.validator | Supplier check passed
+2026-10-18 13:52:34,501 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-18 13:52:34,505 | INFO | src.validator | Reorder_Level check passed
+2026-10-18 13:52:34,509 | INFO | src.validator | Unit_Cost check passed
+2026-10-18 13:52:34,514 | INFO | src.validator | Unit_Price check passed
+2026-10-18 13:52:34,519 | INFO | src.validator | Price vs Cost check passed
+2026-10-18 13:52:34,521 | INFO | src.validator | Units_Sold check passed
+2026-10-18 13:52:34,525 | INFO | src.validator | Order_Date check passed
+2026-10-18 13:52:34,526 | INFO | src.validator | Validation finished: 2  invalid rows in total
+2026-10-18 13:52:34,542 | INFO | src.kpi | KPI | total_inventory_value = 19054.0
+2026-10-18 13:52:34,543 | INFO | src.kpi | KPI | total_potential_sales_value = 39550.0
+2026-10-18 13:52:34,543 | INFO | src.kpi | KPI | total_potential_gross_profit = 20496.0
+2026-10-18 13:52:34,576 | INFO | src.analyzer | Product summary created: 16 products
+2026-10-18 13:52:34,596 | INFO | src.analyzer | Stock status summary created
+2026-10-18 13:52:34,661 | INFO | src.analyzer | Product table created: 16 products
+2026-10-18 13:52:34,664 | INFO | src.analyzer | Median Inventory_Turnover: 0.71
+2026-10-18 13:53:47,152 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-18 13:53:47,160 | INFO | src.validator | Product_ID check passed
+2026-10-18 13:53:47,166 | INFO | src.validator | Product_Name check passed
+2026-10-18 13:53:47,172 | WARNING | src.validator | Category check failed: 1  invalid rows
+2026-10-18 13:53:47,178 | INFO | src.validator | Supplier check passed
+2026-10-18 13:53:47,181 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-18 13:53:47,185 | INFO | src.validator | Reorder_Level check passed
+2026-10-18 13:53:47,189 | WARNING | src.validator | Unit_Cost check failed: 1  invalid rows
+2026-10-18 13:53:47,193 | INFO | src.validator | Unit_Price check passed
+2026-10-18 13:53:47,196 | INFO | src.validator | Price vs Cost check passed
+2026-10-18 13:53:47,198 | INFO | src.validator | Units_Sold check passed
+2026-10-18 13:53:47,204 | INFO | src.validator | Order_Date check passed
+2026-10-18 13:53:47,205 | INFO | src.validator | Validation finished: 4  invalid rows in total
+2026-10-18 13:53:47,206 | INFO | src.cleaner | Cleaning started
+2026-10-18 13:53:47,213 | INFO | src.cleaner | Category: fixed 1 values
+2026-10-18 13:53:47,224 | INFO | src.cleaner | Unit_Cost: fixed 1 negative values
+2026-10-18 13:53:47,233 | INFO | src.cleaner | Cleaning finished
+2026-10-18 13:53:47,234 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-18 13:53:47,241 | INFO | src.validator | Product_ID check passed
+2026-10-18 13:53:47,246 | INFO | src.validator | Product_Name check passed
+2026-10-18 13:53:47,250 | INFO | src.validator | Category check passed
+2026-10-18 13:53:47,256 | INFO | src.validator | Supplier check passed
+2026-10-18 13:53:47,261 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-18 13:53:47,263 | INFO | src.validator | Reorder_Level check passed
+2026-10-18 13:53:47,266 | INFO | src.validator | Unit_Cost check passed
+2026-10-18 13:53:47,269 | INFO | src.validator | Unit_Price check passed
+2026-10-18 13:53:47,272 | INFO | src.validator | Price vs Cost check passed
+2026-10-18 13:53:47,276 | INFO | src.validator | Units_Sold check passed
+2026-10-18 13:53:47,279 | INFO | src.validator | Order_Date check passed
+2026-10-18 13:53:47,279 | INFO | src.validator | Validation finished: 2  invalid rows in total
+2026-10-18 13:53:47,292 | INFO | src.kpi | KPI | total_inventory_value = 19054.0
+2026-10-18 13:53:47,293 | INFO | src.kpi | KPI | total_potential_sales_value = 39550.0
+2026-10-18 13:53:47,294 | INFO | src.kpi | KPI | total_potential_gross_profit = 20496.0
+2026-10-18 13:53:47,312 | INFO | src.analyzer | Product summary created: 16 products
+2026-10-18 13:53:47,331 | INFO | src.analyzer | Stock status summary created
+2026-10-18 13:53:47,399 | INFO | src.analyzer | Product table created: 16 products
+2026-10-18 13:53:47,402 | INFO | src.analyzer | Median Inventory_Turnover: 0.71
+2026-10-18 16:02:27,083 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-18 16:02:27,093 | INFO | src.validator | Product_ID check passed
+2026-10-18 16:02:27,099 | INFO | src.validator | Product_Name check passed
+2026-10-18 16:02:27,103 | WARNING | src.validator | Category check failed: 1  invalid rows
+2026-10-18 16:02:27,107 | INFO | src.validator | Supplier check passed
+2026-10-18 16:02:27,110 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-18 16:02:27,115 | INFO | src.validator | Reorder_Level check passed
+2026-10-18 16:02:27,117 | WARNING | src.validator | Unit_Cost check failed: 1  invalid rows
+2026-10-18 16:02:27,120 | INFO | src.validator | Unit_Price check passed
+2026-10-18 16:02:27,122 | INFO | src.validator | Price vs Cost check passed
+2026-10-18 16:02:27,127 | INFO | src.validator | Units_Sold check passed
+2026-10-18 16:02:27,131 | INFO | src.validator | Order_Date check passed
+2026-10-18 16:02:27,132 | INFO | src.validator | Validation finished: 4  invalid rows in total
+2026-10-18 16:02:27,132 | INFO | src.cleaner | Cleaning started
+2026-10-18 16:02:27,136 | INFO | src.cleaner | Category: fixed 1 values
+2026-10-18 16:02:27,143 | INFO | src.cleaner | Unit_Cost: fixed 1 negative values
+2026-10-18 16:02:27,151 | INFO | src.cleaner | Cleaning finished
+2026-10-18 16:02:27,151 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-18 16:02:27,157 | INFO | src.validator | Product_ID check passed
+2026-10-18 16:02:27,161 | INFO | src.validator | Product_Name check passed
+2026-10-18 16:02:27,167 | INFO | src.validator | Category check passed
+2026-10-18 16:02:27,172 | INFO | src.validator | Supplier check passed
+2026-10-18 16:02:27,175 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-18 16:02:27,179 | INFO | src.validator | Reorder_Level check passed
+2026-10-18 16:02:27,184 | INFO | src.validator | Unit_Cost check passed
+2026-10-18 16:02:27,188 | INFO | src.validator | Unit_Price check passed
+2026-10-18 16:02:27,190 | INFO | src.validator | Price vs Cost check passed
+2026-10-18 16:02:27,193 | INFO | src.validator | Units_Sold check passed
+2026-10-18 16:02:27,196 | INFO | src.validator | Order_Date check passed
+2026-10-18 16:02:27,197 | INFO | src.validator | Validation finished: 2  invalid rows in total
+2026-10-18 16:02:27,212 | INFO | src.kpi | KPI | total_inventory_value = 19054.0
+2026-10-18 16:02:27,213 | INFO | src.kpi | KPI | total_potential_sales_value = 39550.0
+2026-10-18 16:02:27,214 | INFO | src.kpi | KPI | total_potential_gross_profit = 20496.0
+2026-10-18 16:02:27,247 | INFO | src.analyzer | Product summary created: 16 products
+2026-10-18 16:02:27,265 | INFO | src.analyzer | Stock status summary created
+2026-10-18 16:02:27,333 | INFO | src.analyzer | Product table created: 16 products
+2026-10-18 16:02:27,336 | INFO | src.analyzer | Median Inventory_Turnover: 0.71
+2026-10-18 16:02:27,369 | INFO | src.analyzer | Reorder_Quantity added
+2026-10-18 18:56:51,578 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-18 18:56:51,589 | INFO | src.validator | Product_ID check passed
+2026-10-18 18:56:51,593 | INFO | src.validator | Product_Name check passed
+2026-10-18 18:56:51,597 | WARNING | src.validator | Category check failed: 1  invalid rows
+2026-10-18 18:56:51,601 | INFO | src.validator | Supplier check passed
+2026-10-18 18:56:51,609 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-18 18:56:51,618 | INFO | src.validator | Reorder_Level check passed
+2026-10-18 18:56:51,621 | WARNING | src.validator | Unit_Cost check failed: 1  invalid rows
+2026-10-18 18:56:51,623 | INFO | src.validator | Unit_Price check passed
+2026-10-18 18:56:51,625 | INFO | src.validator | Price vs Cost check passed
+2026-10-18 18:56:51,627 | INFO | src.validator | Units_Sold check passed
+2026-10-18 18:56:51,632 | INFO | src.validator | Order_Date check passed
+2026-10-18 18:56:51,632 | INFO | src.validator | Validation finished: 4  invalid rows in total
+2026-10-18 18:56:51,633 | INFO | src.cleaner | Cleaning started
+2026-10-18 18:56:51,637 | INFO | src.cleaner | Category: fixed 1 values
+2026-10-18 18:56:51,644 | INFO | src.cleaner | Unit_Cost: fixed 1 negative values
+2026-10-18 18:56:51,655 | INFO | src.cleaner | Cleaning finished
+2026-10-18 18:56:51,657 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-18 18:56:51,666 | INFO | src.validator | Product_ID check passed
+2026-10-18 18:56:51,676 | INFO | src.validator | Product_Name check passed
+2026-10-18 18:56:51,686 | INFO | src.validator | Category check passed
+2026-10-18 18:56:51,696 | INFO | src.validator | Supplier check passed
+2026-10-18 18:56:51,700 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-18 18:56:51,706 | INFO | src.validator | Reorder_Level check passed
+2026-10-18 18:56:51,711 | INFO | src.validator | Unit_Cost check passed
+2026-10-18 18:56:51,714 | INFO | src.validator | Unit_Price check passed
+2026-10-18 18:56:51,718 | INFO | src.validator | Price vs Cost check passed
+2026-10-18 18:56:51,723 | INFO | src.validator | Units_Sold check passed
+2026-10-18 18:56:51,728 | INFO | src.validator | Order_Date check passed
+2026-10-18 18:56:51,729 | INFO | src.validator | Validation finished: 2  invalid rows in total
+2026-10-18 18:56:51,747 | INFO | src.kpi | KPI | total_inventory_value = 19054.0
+2026-10-18 18:56:51,749 | INFO | src.kpi | KPI | total_potential_sales_value = 39550.0
+2026-10-18 18:56:51,749 | INFO | src.kpi | KPI | total_potential_gross_profit = 20496.0
+2026-10-18 18:56:51,783 | INFO | src.analyzer | Product summary created: 16 products
+2026-10-18 18:56:51,805 | INFO | src.analyzer | Stock status summary created
+2026-10-18 18:56:51,878 | INFO | src.analyzer | Product table created: 16 products
+2026-10-18 18:56:51,881 | INFO | src.analyzer | Median Inventory_Turnover: 0.71
+2026-10-18 18:56:51,913 | INFO | src.analyzer | Reorder_Quantity added
+2026-10-18 18:56:51,919 | INFO | src.analyzer | Reorder_Cost added
+2026-10-19 11:20:23,975 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-19 11:20:23,985 | INFO | src.validator | Product_ID check passed
+2026-10-19 11:20:23,989 | INFO | src.validator | Product_Name check passed
+2026-10-19 11:20:23,993 | WARNING | src.validator | Category check failed: 1  invalid rows
+2026-10-19 11:20:23,997 | INFO | src.validator | Supplier check passed
+2026-10-19 11:20:24,001 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-19 11:20:24,006 | INFO | src.validator | Reorder_Level check passed
+2026-10-19 11:20:24,008 | WARNING | src.validator | Unit_Cost check failed: 1  invalid rows
+2026-10-19 11:20:24,010 | INFO | src.validator | Unit_Price check passed
+2026-10-19 11:20:24,012 | INFO | src.validator | Price vs Cost check passed
+2026-10-19 11:20:24,015 | INFO | src.validator | Units_Sold check passed
+2026-10-19 11:20:24,020 | INFO | src.validator | Order_Date check passed
+2026-10-19 11:20:24,020 | INFO | src.validator | Validation finished: 4  invalid rows in total
+2026-10-19 11:20:24,021 | INFO | src.cleaner | Cleaning started
+2026-10-19 11:20:24,025 | INFO | src.cleaner | Category: fixed 1 values
+2026-10-19 11:20:24,034 | INFO | src.cleaner | Unit_Cost: fixed 1 negative values
+2026-10-19 11:20:24,039 | INFO | src.cleaner | Cleaning finished
+2026-10-19 11:20:24,040 | INFO | src.validator | Column check passed: all 10 columns present
+2026-10-19 11:20:24,045 | INFO | src.validator | Product_ID check passed
+2026-10-19 11:20:24,049 | INFO | src.validator | Product_Name check passed
+2026-10-19 11:20:24,055 | INFO | src.validator | Category check passed
+2026-10-19 11:20:24,058 | INFO | src.validator | Supplier check passed
+2026-10-19 11:20:24,061 | WARNING | src.validator | Stock_Quantity check failed: 1  invalid rows
+2026-10-19 11:20:24,064 | INFO | src.validator | Reorder_Level check passed
+2026-10-19 11:20:24,067 | INFO | src.validator | Unit_Cost check passed
+2026-10-19 11:20:24,071 | INFO | src.validator | Unit_Price check passed
+2026-10-19 11:20:24,073 | INFO | src.validator | Price vs Cost check passed
+2026-10-19 11:20:24,075 | INFO | src.validator | Units_Sold check passed
+2026-10-19 11:20:24,078 | INFO | src.validator | Order_Date check passed
+2026-10-19 11:20:24,078 | INFO | src.validator | Validation finished: 2  invalid rows in total
+2026-10-19 11:20:24,090 | INFO | src.kpi | KPI | total_inventory_value = 19054.0
+2026-10-19 11:20:24,090 | INFO | src.kpi | KPI | total_potential_sales_value = 39550.0
+2026-10-19 11:20:24,091 | INFO | src.kpi | KPI | total_potential_gross_profit = 20496.0
+2026-10-19 11:20:24,116 | INFO | src.analyzer | Product summary created: 16 products
+2026-10-19 11:20:24,132 | INFO | src.analyzer | Stock status summary created
+2026-10-19 11:20:24,206 | INFO | src.analyzer | Product table created: 16 products
+2026-10-19 11:20:24,210 | INFO | src.analyzer | Median Inventory_Turnover: 0.71
+2026-10-19 11:20:24,244 | INFO | src.analyzer | Reorder_Quantity added
+2026-10-19 11:20:24,249 | INFO | src.analyzer | Reorder_Cost added
+2026-10-19 11:20:24,249 | INFO | src.dashbook | Dashboard started
+2026-10-19 11:20:30,038 | INFO | src.dashbook | Dashboard saved to dashbook/inventory_dashboard.png

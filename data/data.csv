@@ -1,0 +1,51 @@
+Product_ID,Product_Name,Category,Supplier,Stock_Quantity,Reorder_Level,Unit_Cost,Unit_Price,Units_Sold,Order_Date
+P001,Wireless Mouse,Electronics,TechSupply,45,20,12.50,25.00,18,2026-01-05
+P002,Keyboard,Electronics,TechSupply,12,15,20.00,40.00,25,2026-01-06
+P003,USB Cable,Electronics,ConnectPlus,80,30,3.50,10.00,35,2026-01-07
+P004,Laptop Stand,Accessories,OfficePro,25,10,18.00,35.00,12,2026-01-08
+P005,Webcam,Electronics,TechSupply,8,15,28.00,55.00,30,2026-01-09
+P006,Office Chair,Furniture,OfficePro,18,10,75.00,150.00,8,2026-01-10
+P007,Desk Lamp,Lighting,BrightHome,32,15,15.00,30.00,14,2026-01-11
+P008,Monitor 24 inch,Electronics,TechSupply,6,10,110.00,180.00,22,2026-01-12
+P009,Notebook,Stationery,PaperWorld,120,50,2.00,5.00,40,2026-01-13
+P010,Pen Pack,Stationery,PaperWorld,200,80,1.50,4.00,55,2026-01-14
+P011,Backpack,Accessories,TravelGear,15,10,25.00,50.00,20,2026-01-15
+P012,Headphones,Electronics,SoundMax,10,15,30.00,65.00,28,2026-01-16
+P013,Power Bank,Electronics,ConnectPlus,22,15,18.00,40.00,19,2026-01-17
+P014,Desk Organizer,Stationery,OfficePro,35,15,7.00,15.00,10,2026-01-18
+P015,Printer,Furniture,TechSupply,5,8,120.00,200.00,16,2026-01-19
+P016,Water Bottle,Accessories,TravelGear,60,25,6.00,15.00,24,2026-01-20
+P017,USB Cable,electronics,ConnectPlus,75,30,3.50,10.00,38,2026-01-21
+P018,Wireless Mouse,Electronics,TechSupply,40,20,12.50,25.00,20,2026-01-22
+P019,Office Chair,Furniture,OfficePro,3,10,75.00,150.00,15,2026-01-23
+P020,Desk Lamp,Lighting,BrightHome,28,15,15.00,30.00,13,2026-01-24
+P021,Webcam,Electronics,TechSupply,,15,28.00,55.00,27,2026-01-25
+P022,Keyboard,Electronics,TechSupply,14,15,20.00,40.00,23,2026-01-26
+P023,Laptop Stand,Accessories,OfficePro,20,10,18.00,35.00,11,2026-01-27
+P024,Monitor 24 inch,Electronics,TechSupply,7,10,-110.00,180.00,21,2026-01-28
+P025,Notebook,Stationery,PaperWorld,110,50,2.00,5.00,42,2026-01-29
+P026,Pen Pack,Stationery,PaperWorld,190,80,1.50,4.00,60,2026-01-30
+P027,Headphones,Electronics,SoundMax,9,15,30.00,65.00,31,2026-01-31
+P028,Power Bank,Electronics,ConnectPlus,25,15,18.00,40.00,17,2026-02-01
+P029,Backpack,Accessories,TravelGear,18,10,25.00,50.00,19,2026-02-02
+P030,Printer,Furniture,TechSupply,4,8,120.00,200.00,18,2026-02-03
+P031,Desk Organizer,Stationery,OfficePro,38,15,7.00,15.00,9,2026-02-04
+P032,Water Bottle,Accessories,TravelGear,55,25,6.00,15.00,26,2026-02-05
+P033,USB Cable,Electronics,ConnectPlus,70,30,3.50,10.00,36,2026-02-06
+P034,Wireless Mouse,Electronics,TechSupply,42,20,12.50,25.00,21,2026-02-07
+P035,Office Chair,Furniture,OfficePro,2,10,75.00,150.00,17,2026-02-08
+P036,Desk Lamp,Lighting,BrightHome,30,15,15.00,30.00,12,2026-02-09
+P037,Webcam,Electronics,TechSupply,7,15,28.00,55.00,29,2026-02-10
+P038,Keyboard,Electronics,TechSupply,13,15,20.00,40.00,24,2026-02-11
+P039,Laptop Stand,Accessories,OfficePro,22,10,18.00,35.00,13,2026-02-12
+P040,Monitor 24 inch,Electronics,TechSupply,5,10,110.00,180.00,25,2026-02-13
+P041,Notebook,Stationery,PaperWorld,115,50,2.00,5.00,45,2026-02-14
+P042,Pen Pack,Stationery,PaperWorld,180,80,1.50,4.00,58,2026-02-15
+P043,Headphones,Electronics,SoundMax,11,15,30.00,65.00,26,2026-02-16
+P044,Power Bank,Electronics,ConnectPlus,20,15,18.00,40.00,22,2026-02-17
+P045,Backpack,Accessories,TravelGear,16,10,25.00,50.00,21,2026-02-18
+P046,Printer,Furniture,TechSupply,6,8,120.00,200.00,14,2026-02-19
+P047,Desk Organizer,Stationery,OfficePro,40,15,7.00,15.00,8,2026-02-20
+P048,Water Bottle,Accessories,TravelGear,58,25,6.00,15.00,23,2026-02-21
+P049,USB Cable,Electronics,ConnectPlus,68,30,3.50,10.00,39,2026-02-22
+P050,Wireless Mouse,Electronics,TechSupply,38,20,12.50,25.00,19,2026-02-23

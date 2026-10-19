@@ -1,0 +1,45 @@
+The total cost of the stock you're currently holding.
+###Inventory Value = Σ (Quantity on hand × Unit cost)
+The total revenue you would generate if you sold all of your current stock at its selling price.
+###Potential Sales Value = Σ (Quantity on hand × Selling price)
+The profit you'd make if you sold all your stock — revenue minus the cost of that stock (and any direct selling costs).
+###Potential Gross Profit = Potential Sales Value − Inventory Value
+###                 Σ (Quantity on hand × (Selling price − Unit cost))
+
+Inventory Turnover Conceptually: 
+Inventory Turnover = Cost of Goods Sold ÷ Average Inventory" 
+### "Inventory Turnover ≈ Units Sold ÷ Stock Quantity" 
+Higher → inventory is moving faster.
+Lower → inventory is moving more slowly.
+
+Total_Stock=("Stock_Quantity", lambda x: x.sum(min_count=1))
+x.sum(min_count=1) return missing stock would show 0 instead of Unknown.
+
+stock status
+Stock < Reorder Level     → Low Stock
+
+Stock >= Reorder Level    → Healthy
+
+Stock is missing          → Unknown
+
+Calculate:
+Median Inventory Turnover
+Turnover ≥ median → Fast Moving
+Turnover < median → Slow Moving
+
+How much should we reorder?
+###Reorder Quantity = Reorder Level − Current Stock
+
+Financial impact
+###Reorder Cost = Reorder Quantity × Unit Cost
+
+
+5 KPIs:
+Total Inventory Value
+Total Potential Sales Value
+Total Potential Gross Profit
+Number of Critical Products
+Total Reorder Cost for Critical Products
+
+Project summary
+Data Quality → Cleaning → Inventory Metrics → Product Analysis → Turnover → Stock Status → Movement Classification → Reorder Priority → Reorder Quantity → Financial Impact → Business Recommendations
